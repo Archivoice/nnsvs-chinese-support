@@ -1,0 +1,70 @@
+Custom phoneme set for Chinese NNSVS datasets.
+Custom made, will not work with other platforms.
+
+[phone] [word]
+
+VOWELS:
+
+a       kAn
+ia      jIA
+ua      gUA
+A       gAng
+iA      jIAng
+uA      gUAng
+ng      koNG
+N       kaN
+e       E
+ie      jIE
+E       fEi
+yu      YU
+i       I
+I       jIng, sI
+ih      zhI
+ii      feI
+U       goU
+uo      gUO
+er      ER
+u       gU
+V       cUn
+yE      jUE
+uE      kUi
+O       kOng
+iO      qIOng
+yI      YUn
+
+CONSONANTS:
+
+b       Ba
+c       Cang
+ch      CHang
+d       Dang
+f       Fei
+g       Gei
+h       Hei
+j       Ji
+k       Kan
+l       Lan
+m       Man
+n       Nan
+p       Peng
+q       Qiong
+r       Rang
+rr      YUe
+s       Sa
+sh      SHa
+t       Tu
+w       Wang
+x       Xiang
+y       Yang
+z       Zang
+zh      ZHang
+
+ADDITIONAL:
+
+pau     [silence]
+br      [breath] (not recommended, labeling breaths can degrade model quality)
+exh     [exhale]
+cl      [glottal stop]
+vf      [vocal fry]
+uu      う (made for Hokkien/Taiwanese)
+iU      きゅ (made for Hokkien/Taiwanese)
