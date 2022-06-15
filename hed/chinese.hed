@@ -1,3 +1,8 @@
+#HED for NNSVS Chinese
+#in_dim: 425(duration/timelag), 429(acoustic)
+#in_rest_idx: 8
+#in_lfx0_idx: 363
+
 QS "timbre"                  {*^i1_*, *^i2_*, *^i3_*, *^i4_*, *^i5_*, *^i6_*, *^i7_*, *^i8_*}
 
 QS "L_Silence"               {*^sil-*,*^pau-*,*^br-*,*^cl-*}
