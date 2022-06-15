@@ -17,20 +17,20 @@ Within the /dic folder is a dictionary made for NNSVS to allow for pinyin input 
 The hed file used for training can be changed via the config.yaml, found at `/train/config.yaml` within the ENUNU training kit.
 
 Note that the "in_dim" value found in `/train/conf/*/model/*.yaml` used for training must be changed accordingly to the hed file, the values should be set up as follows if using "chinese.hed":
-* acoustic_conv.yaml: 429
-* acoustic_rmdn.yaml: 429
-* duration_lstm.yaml: 425
-* duration_mdn.yaml: 425
-* timelag_ffn.yaml: 425
-* timelag_mdn.yaml: 425
+* acoustic_conv.yaml: 349
+* acoustic_rmdn.yaml: 349
+* duration_lstm.yaml: 344
+* duration_mdn.yaml: 344
+* timelag_ffn.yaml: 344
+* timelag_mdn.yaml: 344
 
 If using "chinese_MDN.hed", use the following settings: (note that this certain hed file is useful when training the rMDN, MDN, and RMDN model types.)
-* acoustic_conv.yaml: 329
-* acoustic_rmdn.yaml: 329
-* duration_lstm.yaml: 325
-* duration_mdn.yaml: 325
-* timelag_ffn.yaml: 325
-* timelag_mdn.yaml: 325
+* acoustic_conv.yaml: 249
+* acoustic_rmdn.yaml: 249
+* duration_lstm.yaml: 245
+* duration_mdn.yaml: 245
+* timelag_ffn.yaml: 245
+* timelag_mdn.yaml: 245
 
 Training will not work without setting up these values correctly
 
