@@ -1,5 +1,5 @@
 #HED for NNSVS Chinese, for Conv1dResnetMDN training.
-#in_dim: 325(duration/timelag), 329(acoustic)
+#in_dim: 244(duration/timelag), 249(acoustic)
 #in_rest_idx: 8
 #in_lfx0_idx: 199
 
