@@ -1,5 +1,5 @@
 #HED for NNSVS Chinese
-#in_dim: 344(duration/timelag), 349(acoustic)
+#in_dim: 344(duration/timelag), 348(acoustic)
 #in_rest_idx: 8
 #in_lfx0_idx: 299
 
