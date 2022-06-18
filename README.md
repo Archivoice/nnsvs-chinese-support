@@ -7,7 +7,7 @@ The phoneme set is a custom made one in consideration to character limitations o
 
 Note that since there is currently no pretrained model available for use, it is expected that for a high quality result, around 6 hours or more of audio (excluding silence) to be needed. However, 2 to 3 hours of audio data (excluding silence) should be sufficent for a decent quality model, with less (~1 hours worth) audio data (excluding silence) sufficient for a prototype test.
 
-##Additional Info
+## Additional Info
 The hed file provided in this repository was hand-written specifically for NNSVS and may not work with other platforms/programs as-is. Two hed files are provided, a full length one in addition to a minimal one, while both are fully functional, it's recommended to use the full length one.
 
 "Phoneme Explanations.txt" includes all phonemes available for the Chinese language support with reference to their usage, the bold text within the words refer to the phoneme pronunciation in said words.
@@ -17,20 +17,20 @@ Within the /dic folder is a dictionary made for NNSVS to allow for pinyin input 
 The hed file used for training can be changed via the config.yaml, found at `/train/config.yaml` within the ENUNU training kit.
 
 Note that the "in_dim" value found in `/train/conf/*/model/*.yaml` used for training must be changed accordingly to the hed file, the values should be set up as follows if using "chinese.hed":
-* acoustic_conv.yaml: 348
-* acoustic_rmdn.yaml: 348
-* duration_lstm.yaml: 344
-* duration_mdn.yaml: 344
-* timelag_ffn.yaml: 344
-* timelag_mdn.yaml: 344
+* acoustic_conv.yaml: 372
+* acoustic_rmdn.yaml: 372
+* duration_lstm.yaml: 368
+* duration_mdn.yaml: 368
+* timelag_ffn.yaml: 368
+* timelag_mdn.yaml: 368
 
 If using "chinese_MDN.hed", use the following settings: (note that this certain hed file is useful when training the rMDN, MDN, and RMDN model types.)
-* acoustic_conv.yaml: 248
-* acoustic_rmdn.yaml: 248
-* duration_lstm.yaml: 244
-* duration_mdn.yaml: 244
-* timelag_ffn.yaml: 244
-* timelag_mdn.yaml: 244
+* acoustic_conv.yaml: 272
+* acoustic_rmdn.yaml: 272
+* duration_lstm.yaml: 268
+* duration_mdn.yaml: 268
+* timelag_ffn.yaml: 268
+* timelag_mdn.yaml: 268
 
 Training will not work without setting up these values correctly
 
