@@ -62,8 +62,9 @@ zh      ZHang
 ADDITIONAL:
 
 pau     [silence]
-br      [breath] (not recommended, labeling breaths can degrade model quality)
+br      [breath] (REMOVED)
 exh     [exhale]
+axh     [voiced exhale]
 cl      [glottal stop]
 vf      [vocal fry]
 uu      う (made for Hokkien/Taiwanese)
