@@ -1,11 +1,14 @@
 R pau
-息 br
-br br
 pau pau
+cl cl
 GlottalStop cl
 Edge vf
+vf vf
 sil sil
 hh exh
+exh exh
+axh axh
+sil sil
 ア a
 あ a
 イ i
@@ -394,6 +397,58 @@ hh exh
 8 b a
 9 j iO U
 10 sh ih
+a a
+ia ia
+ua ua
+A A
+iA iA
+uA uA
+ng ng
+N N
+e e
+ie ie
+E E
+yu yu
+i i
+I I
+ih ih
+ii ii
+U U
+uo uo
+er er
+u u
+V V
+yE yE
+uE uE
+O O
+iO iO
+yI yI
+iU iU
+uu uu
+b b
+c c
+ch ch
+d d
+f f
+g g
+h h
+j j
+k k
+l l
+m m
+n n
+p p
+q q
+r r
+rr rr
+s s
+sh sh
+t t
+w w
+x x
+y y
+z z
+zh zh
 zhi zh ih
 chi ch ih
 shi sh ih
