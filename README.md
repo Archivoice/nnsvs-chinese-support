@@ -7,6 +7,10 @@ The phoneme set is a custom made one in consideration to character limitations o
 
 Note that since there is currently no pretrained model available for use, it is expected that for a high quality result, around 6 hours or more of audio (excluding silence) to be needed. However, 2 to 3 hours of audio data (excluding silence) should be sufficent for a decent quality model, with less (~1 hours worth) audio data (excluding silence) sufficient for a prototype test.
 
+Here is a render of a model with 3 hours of data, tuned in OpenUtau
+
+https://user-images.githubusercontent.com/107520869/180795817-5e91bee3-0a6b-44fe-aef5-4179ee74b9e8.mp4
+
 ## Additional Info
 The hed file provided in this repository was hand-written specifically for NNSVS and may not work with other platforms/programs as-is. Two hed files are provided, a full length one in addition to a minimal one, while both are fully functional, it's recommended to use the full length one.
 
