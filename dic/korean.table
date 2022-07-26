@@ -1,0 +1,3803 @@
+R pau
+pau pau
+br pau
+息 pau
+GlottalStop cl
+Edge vf
+sil sil
+cl cl
+vf vf
+hh exh
+exh exh
+axh axh
+a a
+i i
+uu uu
+E E
+ee E
+o u
+oo u
+eu U
+eo O
+al a l
+il i l
+ul uu l
+el E l
+ol u l
+eul U l
+eol O l
+an a N
+in i N
+un uu N
+en E N
+on u N
+eun U N
+eon O N
+am a m
+im i m
+um uu m
+em E m
+om u m
+eum U m
+eom O m
+ang a ng
+ing i ng
+ung uu ng
+eng E ng
+ong u ng
+eung U ng
+eong O ng
+ap a p
+ip i p
+up uu p
+ep E p
+op u p
+eup U p
+eop O p
+ab a b
+ib i b
+ub uu b
+eb E b
+ob u b
+eub U b
+eob O b
+at a t
+it i t
+ut uu t
+et E t
+ot u t
+eut U t
+eot O t
+ak a k
+ik i k
+uk uu k
+ek E k
+ok u k
+euk U k
+eok O k
+ya y a
+yi y i
+yuu y uu
+yU y uu
+YU y uu
+ye y E
+yo y u
+yeu y U
+yeo y O
+yal y a l
+yil y i l
+yul y uu l
+yel y E l
+yol y u l
+yeul y U l
+yeol y O l
+yan y a N
+yin y i N
+yun y uu N
+yen y E N
+yon y u N
+yeun y U N
+yeon y O N
+yam y a m
+yim y i m
+yum y uu m
+yem y E m
+yom y u m
+yeum y U m
+yeom y O m
+yang y a ng
+ying y i ng
+yung y uu ng
+yeng y E ng
+yong y u ng
+yeung y U ng
+yeong y O ng
+yap y a p
+yip y i p
+yup y uu p
+yep y E p
+yop y u p
+yeup y U p
+yeop y O p
+yab y a b
+yib y i b
+yub y uu b
+yeb y E b
+yob y u b
+yeub y U b
+yeob y O b
+yat y a t
+yit y i t
+yut y uu t
+yet y E t
+yot y u t
+yeut y U t
+yeot y O t
+yak y a k
+yik y i k
+yuk y uu k
+yek y E k
+yok y u k
+yeuk y U k
+yeok y O k
+wa w a
+wi w i
+wu w uu
+we w E
+wo w u
+weu w U
+weo w O
+wal w a l
+wil w i l
+wul w uu l
+wel w E l
+wol w u l
+weul w U l
+weol w O l
+wan w a N
+win w i N
+wun w uu N
+wen w E N
+won w u N
+weun w U N
+weon w O N
+wam w a m
+wim w i m
+wum w uu m
+wem w E m
+wom w u m
+weum w U m
+weom w O m
+wang w a ng
+wing w i ng
+wung w uu ng
+weng w E ng
+wong w u ng
+weung w U ng
+weong w O ng
+wap w a p
+wip w i p
+wup w uu p
+wep w E p
+wop w u p
+weup w U p
+weop w O p
+wab w a b
+wib w i b
+wub w uu b
+web w E b
+wob w u b
+weub w U b
+weob w O b
+wat w a t
+wit w i t
+wut w uu t
+wet w E t
+wot w u t
+weut w U t
+weot w O t
+wak w a k
+wik w i k
+wuk w uu k
+wek w E k
+wok w u k
+weuk w U k
+weok w O k
+ga g a
+gi g i
+gu g uu
+ge g E
+go g u
+geu g U
+geo g O
+gal g a l
+gil g i l
+gul g uu l
+gel g E l
+gol g u l
+geul g U l
+geol g O l
+gan g a N
+gin g i N
+gun g uu N
+gen g E N
+gon g u N
+geun g U N
+geon g O N
+gam g a m
+gim g i m
+gum g uu m
+gem g E m
+gom g u m
+geum g U m
+geom g O m
+gang g a ng
+ging g i ng
+gung g uu ng
+geng g E ng
+gong g u ng
+geung g U ng
+geong g O ng
+gap g a p
+gip g i p
+gup g uu p
+gep g E p
+gop g u p
+geup g U p
+geop g O p
+gab g a b
+gib g i b
+gub g uu b
+geb g E b
+gob g u b
+geub g U b
+geob g O b
+gat g a t
+git g i t
+gut g uu t
+get g E t
+got g u t
+geut g U t
+geot g O t
+gak g a k
+gik g i k
+guk g uu k
+gek g E k
+gok g u k
+geuk g U k
+geok g O k
+gya g ia
+gyi g i
+gyu g iU
+gye g iE
+gyo g y u
+gyeu g y U
+gyeo g iO
+gyal g ia l
+gyil g i l
+gyul g iU l
+gyel g iE l
+gyol g y u l
+gyeul g y U l
+gyeol g iO l
+gyan g ia N
+gyin g i N
+gyun g iU N
+gyen g iE N
+gyon g y u N
+gyeun g y U N
+gyeon g iO N
+gyam g ia m
+gyim g i m
+gyum g iU m
+gyem g iE m
+gyom g y u m
+gyeum g y U m
+gyeom g iO m
+gyang g ia ng
+gying g i ng
+gyung g iU ng
+gyeng g iE ng
+gyong g y u ng
+gyeung g y U ng
+gyeong g iO ng
+gyap g ia p
+gyip g i p
+gyup g iU p
+gyep g iE p
+gyop g y u p
+gyeup g y U p
+gyeop g iO p
+gyab g ia b
+gyib g i b
+gyub g iU b
+gyeb g iE b
+gyob g y u b
+gyeub g y U b
+gyeob g iO b
+gyat g ia t
+gyit g i t
+gyut g iU t
+gyet g iE t
+gyot g y u t
+gyeut g y U t
+gyeot g iO t
+gyak g ia k
+gyik g i k
+gyuk g iU k
+gyek g iE k
+gyok g y u k
+gyeuk g y U k
+gyeok g iO k
+gwa g ua
+gwi g w i
+gwu g w uu
+gwe g uE
+gwo g w u
+gweu g w U
+gweo g uo
+gwal g ua l
+gwil g w i l
+gwul g w uu l
+gwel g uE l
+gwol g w u l
+gweul g w U l
+gweol g uo l
+gwan g ua N
+gwin g w i N
+gwun g w uu N
+gwen g uE N
+gwon g w u N
+gweun g w U N
+gweon g uo N
+gwam g ua m
+gwim g w i m
+gwum g w uu m
+gwem g uE m
+gwom g w u m
+gweum g w U m
+gweom g uo m
+gwang g ua ng
+gwing g w i ng
+gwung g w uu ng
+gweng g uE ng
+gwong g w u ng
+gweung g w U ng
+gweong g uo ng
+gwap g ua p
+gwip g w i p
+gwup g w uu p
+gwep g uE p
+gwop g w u p
+gweup g w U p
+gweop g uo p
+gwab g ua b
+gwib g w i b
+gwub g w uu b
+gweb g uE b
+gwob g w u b
+gweub g w U b
+gweob g uo b
+gwat g ua t
+gwit g w i t
+gwut g w uu t
+gwet g uE t
+gwot g w u t
+gweut g w U t
+gweot g uo t
+gwak g ua k
+gwik g w i k
+gwuk g w uu k
+gwek g uE k
+gwok g w u k
+gweuk g w U k
+gweok g uo k
+gga g a
+ggi g i
+ggu g uu
+gge g E
+ggo g u
+ggeu g U
+ggeo g O
+ggal g a l
+ggil g i l
+ggul g uu l
+ggel g E l
+ggol g u l
+ggeul g U l
+ggeol g O l
+ggan g a N
+ggin g i N
+ggun g uu N
+ggen g E N
+ggon g u N
+ggeun g U N
+ggeon g O N
+ggam g a m
+ggim g i m
+ggum g uu m
+ggem g E m
+ggom g u m
+ggeum g U m
+ggeom g O m
+ggang g a ng
+gging g i ng
+ggung g uu ng
+ggeng g E ng
+ggong g u ng
+ggeung g U ng
+ggeong g O ng
+ggap g a p
+ggip g i p
+ggup g uu p
+ggep g E p
+ggop g u p
+ggeup g U p
+ggeop g O p
+ggab g a b
+ggib g i b
+ggub g uu b
+ggeb g E b
+ggob g u b
+ggeub g U b
+ggeob g O b
+ggat g a t
+ggit g i t
+ggut g uu t
+gget g E t
+ggot g u t
+ggeut g U t
+ggeot g O t
+ggak g a k
+ggik g i k
+gguk g uu k
+ggek g E k
+ggok g u k
+ggeuk g U k
+ggeok g O k
+ggya g ia
+ggyi g i
+ggyu g iU
+ggye g iE
+ggyo g y u
+ggyeu g y U
+ggyeo g iO
+ggyal g ia l
+ggyil g i l
+ggyul g iU l
+ggyel g iE l
+ggyol g y u l
+ggyeul g y U l
+ggyeol g iO l
+ggyan g ia N
+ggyin g i N
+ggyun g iU N
+ggyen g iE N
+ggyon g y u N
+ggyeun g y U N
+ggyeon g iO N
+ggyam g ia m
+ggyim g i m
+ggyum g iU m
+ggyem g iE m
+ggyom g y u m
+ggyeum g y U m
+ggyeom g iO m
+ggyang g ia ng
+ggying g i ng
+ggyung g iU ng
+ggyeng g iE ng
+ggyong g y u ng
+ggyeung g y U ng
+ggyeong g iO ng
+ggyap g ia p
+ggyip g i p
+ggyup g iU p
+ggyep g iE p
+ggyop g y u p
+ggyeup g y U p
+ggyeop g iO p
+ggyab g ia b
+ggyib g i b
+ggyub g iU b
+ggyeb g iE b
+ggyob g y u b
+ggyeub g y U b
+ggyeob g iO b
+ggyat g ia t
+ggyit g i t
+ggyut g iU t
+ggyet g iE t
+ggyot g y u t
+ggyeut g y U t
+ggyeot g iO t
+ggyak g ia k
+ggyik g i k
+ggyuk g iU k
+ggyek g iE k
+ggyok g y u k
+ggyeuk g y U k
+ggyeok g iO k
+ggwa g ua
+ggwi g w i
+ggwu g w uu
+ggwe g uE
+ggwo g w u
+ggweu g w U
+ggweo g uo
+ggwal g ua l
+ggwil g w i l
+ggwul g w uu l
+ggwel g uE l
+ggwol g w u l
+ggweul g w U l
+ggweol g uo l
+ggwan g ua N
+ggwin g w i N
+ggwun g w uu N
+ggwen g uE N
+ggwon g w u N
+ggweun g w U N
+ggweon g uo N
+ggwam g ua m
+ggwim g w i m
+ggwum g w uu m
+ggwem g uE m
+ggwom g w u m
+ggweum g w U m
+ggweom g uo m
+ggwang g ua ng
+ggwing g w i ng
+ggwung g w uu ng
+ggweng g uE ng
+ggwong g w u ng
+ggweung g w U ng
+ggweong g uo ng
+ggwap g ua p
+ggwip g w i p
+ggwup g w uu p
+ggwep g uE p
+ggwop g w u p
+ggweup g w U p
+ggweop g uo p
+ggwab g ua b
+ggwib g w i b
+ggwub g w uu b
+ggweb g uE b
+ggwob g w u b
+ggweub g w U b
+ggweob g uo b
+ggwat g ua t
+ggwit g w i t
+ggwut g w uu t
+ggwet g uE t
+ggwot g w u t
+ggweut g w U t
+ggweot g uo t
+ggwak g ua k
+ggwik g w i k
+ggwuk g w uu k
+ggwek g uE k
+ggwok g w u k
+ggweuk g w U k
+ggweok g uo k
+da d a
+di d i
+du d uu
+de d E
+do d u
+deu d U
+deo d O
+dal d a l
+dil d i l
+dul d uu l
+del d E l
+dol d u l
+deul d U l
+deol d O l
+dan d a N
+din d i N
+dun d uu N
+den d E N
+don d u N
+deun d U N
+deon d O N
+dam d a m
+dim d i m
+dum d uu m
+dem d E m
+dom d u m
+deum d U m
+deom d O m
+dang d a ng
+ding d i ng
+dung d uu ng
+deng d E ng
+dong d u ng
+deung d U ng
+deong d O ng
+dap d a p
+dip d i p
+dup d uu p
+dep d E p
+dop d u p
+deup d U p
+deop d O p
+dab d a b
+dib d i b
+dub d uu b
+deb d E b
+dob d u b
+deub d U b
+deob d O b
+dat d a t
+dit d i t
+dut d uu t
+det d E t
+dot d u t
+deut d U t
+deot d O t
+dak d a k
+dik d i k
+duk d uu k
+dek d E k
+dok d u k
+deuk d U k
+deok d O k
+dya d ia
+dyi d i
+dyu d iU
+dye d iE
+dyo d y u
+dyeu d y U
+dyeo d iO
+dyal d ia l
+dyil d i l
+dyul d iU l
+dyel d iE l
+dyol d y u l
+dyeul d y U l
+dyeol d iO l
+dyan d ia N
+dyin d i N
+dyun d iU N
+dyen d iE N
+dyon d y u N
+dyeun d y U N
+dyeon d iO N
+dyam d ia m
+dyim d i m
+dyum d iU m
+dyem d iE m
+dyom d y u m
+dyeum d y U m
+dyeom d iO m
+dyang d ia ng
+dying d i ng
+dyung d iU ng
+dyeng d iE ng
+dyong d y u ng
+dyeung d y U ng
+dyeong d iO ng
+dyap d ia p
+dyip d i p
+dyup d iU p
+dyep d iE p
+dyop d y u p
+dyeup d y U p
+dyeop d iO p
+dyab d ia b
+dyib d i b
+dyub d iU b
+dyeb d iE b
+dyob d y u b
+dyeub d y U b
+dyeob d iO b
+dyat d ia t
+dyit d i t
+dyut d iU t
+dyet d iE t
+dyot d y u t
+dyeut d y U t
+dyeot d iO t
+dyak d ia k
+dyik d i k
+dyuk d iU k
+dyek d iE k
+dyok d y u k
+dyeuk d y U k
+dyeok d iO k
+dwa d ua
+dwi d w i
+dwu d w uu
+dwe d uE
+dwo d w u
+dweu d w U
+dweo d uo
+dwal d ua l
+dwil d w i l
+dwul d w uu l
+dwel d uE l
+dwol d w u l
+dweul d w U l
+dweol d uo l
+dwan d ua N
+dwin d w i N
+dwun d w uu N
+dwen d uE N
+dwon d w u N
+dweun d w U N
+dweon d uo N
+dwam d ua m
+dwim d w i m
+dwum d w uu m
+dwem d uE m
+dwom d w u m
+dweum d w U m
+dweom d uo m
+dwang d ua ng
+dwing d w i ng
+dwung d w uu ng
+dweng d uE ng
+dwong d w u ng
+dweung d w U ng
+dweong d uo ng
+dwap d ua p
+dwip d w i p
+dwup d w uu p
+dwep d uE p
+dwop d w u p
+dweup d w U p
+dweop d uo p
+dwab d ua b
+dwib d w i b
+dwub d w uu b
+dweb d uE b
+dwob d w u b
+dweub d w U b
+dweob d uo b
+dwat d ua t
+dwit d w i t
+dwut d w uu t
+dwet d uE t
+dwot d w u t
+dweut d w U t
+dweot d uo t
+dwak d ua k
+dwik d w i k
+dwuk d w uu k
+dwek d uE k
+dwok d w u k
+dweuk d w U k
+dweok d uo k
+dda d a
+ddi d i
+ddu d uu
+dde d E
+ddo d u
+ddeu d U
+ddeo d O
+ddal d a l
+ddil d i l
+ddul d uu l
+ddel d E l
+ddol d u l
+ddeul d U l
+ddeol d O l
+ddan d a N
+ddin d i N
+ddun d uu N
+dden d E N
+ddon d u N
+ddeun d U N
+ddeon d O N
+ddam d a m
+ddim d i m
+ddum d uu m
+ddem d E m
+ddom d u m
+ddeum d U m
+ddeom d O m
+ddang d a ng
+dding d i ng
+ddung d uu ng
+ddeng d E ng
+ddong d u ng
+ddeung d U ng
+ddeong d O ng
+ddap d a p
+ddip d i p
+ddup d uu p
+ddep d E p
+ddop d u p
+ddeup d U p
+ddeop d O p
+ddab d a b
+ddib d i b
+ddub d uu b
+ddeb d E b
+ddob d u b
+ddeub d U b
+ddeob d O b
+ddat d a t
+ddit d i t
+ddut d uu t
+ddet d E t
+ddot d u t
+ddeut d U t
+ddeot d O t
+ddak d a k
+ddik d i k
+dduk d uu k
+ddek d E k
+ddok d u k
+ddeuk d U k
+ddeok d O k
+ddya d ia
+ddyi d i
+ddyu d iU
+ddye d iE
+ddyo d y u
+ddyeu d y U
+ddyeo d iO
+ddyal d ia l
+ddyil d i l
+ddyul d iU l
+ddyel d iE l
+ddyol d y u l
+ddyeul d y U l
+ddyeol d iO l
+ddyan d ia N
+ddyin d i N
+ddyun d iU N
+ddyen d iE N
+ddyon d y u N
+ddyeun d y U N
+ddyeon d iO N
+ddyam d ia m
+ddyim d i m
+ddyum d iU m
+ddyem d iE m
+ddyom d y u m
+ddyeum d y U m
+ddyeom d iO m
+ddyang d ia ng
+ddying d i ng
+ddyung d iU ng
+ddyeng d iE ng
+ddyong d y u ng
+ddyeung d y U ng
+ddyeong d iO ng
+ddyap d ia p
+ddyip d i p
+ddyup d iU p
+ddyep d iE p
+ddyop d y u p
+ddyeup d y U p
+ddyeop d iO p
+ddyab d ia b
+ddyib d i b
+ddyub d iU b
+ddyeb d iE b
+ddyob d y u b
+ddyeub d y U b
+ddyeob d iO b
+ddyat d ia t
+ddyit d i t
+ddyut d iU t
+ddyet d iE t
+ddyot d y u t
+ddyeut d y U t
+ddyeot d iO t
+ddyak d ia k
+ddyik d i k
+ddyuk d iU k
+ddyek d iE k
+ddyok d y u k
+ddyeuk d y U k
+ddyeok d iO k
+ddwa d ua
+ddwi d w i
+ddwu d w uu
+ddwe d uE
+ddwo d w u
+ddweu d w U
+ddweo d uo
+ddwal d ua l
+ddwil d w i l
+ddwul d w uu l
+ddwel d uE l
+ddwol d w u l
+ddweul d w U l
+ddweol d uo l
+ddwan d ua N
+ddwin d w i N
+ddwun d w uu N
+ddwen d uE N
+ddwon d w u N
+ddweun d w U N
+ddweon d uo N
+ddwam d ua m
+ddwim d w i m
+ddwum d w uu m
+ddwem d uE m
+ddwom d w u m
+ddweum d w U m
+ddweom d uo m
+ddwang d ua ng
+ddwing d w i ng
+ddwung d w uu ng
+ddweng d uE ng
+ddwong d w u ng
+ddweung d w U ng
+ddweong d uo ng
+ddwap d ua p
+ddwip d w i p
+ddwup d w uu p
+ddwep d uE p
+ddwop d w u p
+ddweup d w U p
+ddweop d uo p
+ddwab d ua b
+ddwib d w i b
+ddwub d w uu b
+ddweb d uE b
+ddwob d w u b
+ddweub d w U b
+ddweob d uo b
+ddwat d ua t
+ddwit d w i t
+ddwut d w uu t
+ddwet d uE t
+ddwot d w u t
+ddweut d w U t
+ddweot d uo t
+ddwak d ua k
+ddwik d w i k
+ddwuk d w uu k
+ddwek d uE k
+ddwok d w u k
+ddweuk d w U k
+ddweok d uo k
+na n a
+ni n i
+nu n uu
+ne n E
+no n u
+neu n U
+neo n O
+nal n a l
+nil n i l
+nul n uu l
+nel n E l
+nol n u l
+neul n U l
+neol n O l
+nan n a N
+nin n i N
+nun n uu N
+nen n E N
+non n u N
+neun n U N
+neon n O N
+nam n a m
+nim n i m
+num n uu m
+nem n E m
+nom n u m
+neum n U m
+neom n O m
+nang n a ng
+ning n i ng
+nung n uu ng
+neng n E ng
+nong n u ng
+neung n U ng
+neong n O ng
+nap n a p
+nip n i p
+nup n uu p
+nep n E p
+nop n u p
+neup n U p
+neop n O p
+nab n a b
+nib n i b
+nub n uu b
+neb n E b
+nob n u b
+neub n U b
+neob n O b
+nat n a t
+nit n i t
+nut n uu t
+net n E t
+not n u t
+neut n U t
+neot n O t
+nak n a k
+nik n i k
+nuk n uu k
+nek n E k
+nok n u k
+neuk n U k
+neok n O k
+nya n ia
+nyi n i
+nyu n iU
+nye n iE
+nyo n y u
+nyeu n y U
+nyeo n iO
+nyal n ia l
+nyil n i l
+nyul n iU l
+nyel n iE l
+nyol n y u l
+nyeul n y U l
+nyeol n iO l
+nyan n ia N
+nyin n i N
+nyun n iU N
+nyen n iE N
+nyon n y u N
+nyeun n y U N
+nyeon n iO N
+nyam n ia m
+nyim n i m
+nyum n iU m
+nyem n iE m
+nyom n y u m
+nyeum n y U m
+nyeom n iO m
+nyang n ia ng
+nying n i ng
+nyung n iU ng
+nyeng n iE ng
+nyong n y u ng
+nyeung n y U ng
+nyeong n iO ng
+nyap n ia p
+nyip n i p
+nyup n iU p
+nyep n iE p
+nyop n y u p
+nyeup n y U p
+nyeop n iO p
+nyab n ia b
+nyib n i b
+nyub n iU b
+nyeb n iE b
+nyob n y u b
+nyeub n y U b
+nyeob n iO b
+nyat n ia t
+nyit n i t
+nyut n iU t
+nyet n iE t
+nyot n y u t
+nyeut n y U t
+nyeot n iO t
+nyak n ia k
+nyik n i k
+nyuk n iU k
+nyek n iE k
+nyok n y u k
+nyeuk n y U k
+nyeok n iO k
+nwa n ua
+nwi n w i
+nwu n w uu
+nwe n uE
+nwo n w u
+nweu n w U
+nweo n uo
+nwal n ua l
+nwil n w i l
+nwul n w uu l
+nwel n uE l
+nwol n w u l
+nweul n w U l
+nweol n uo l
+nwan n ua N
+nwin n w i N
+nwun n w uu N
+nwen n uE N
+nwon n w u N
+nweun n w U N
+nweon n uo N
+nwam n ua m
+nwim n w i m
+nwum n w uu m
+nwem n uE m
+nwom n w u m
+nweum n w U m
+nweom n uo m
+nwang n ua ng
+nwing n w i ng
+nwung n w uu ng
+nweng n uE ng
+nwong n w u ng
+nweung n w U ng
+nweong n uo ng
+nwap n ua p
+nwip n w i p
+nwup n w uu p
+nwep n uE p
+nwop n w u p
+nweup n w U p
+nweop n uo p
+nwab n ua b
+nwib n w i b
+nwub n w uu b
+nweb n uE b
+nwob n w u b
+nweub n w U b
+nweob n uo b
+nwat n ua t
+nwit n w i t
+nwut n w uu t
+nwet n uE t
+nwot n w u t
+nweut n w U t
+nweot n uo t
+nwak n ua k
+nwik n w i k
+nwuk n w uu k
+nwek n uE k
+nwok n w u k
+nweuk n w U k
+nweok n uo k
+ra l a
+ri l i
+ru l uu
+re l E
+ro l u
+reu l U
+reo l O
+ral l a l
+ril l i l
+rul l uu l
+rel l E l
+rol l u l
+reul l U l
+reol l O l
+ran l a N
+rin l i N
+run l uu N
+ren l E N
+ron l u N
+reun l U N
+reon l O N
+ram l a m
+rim l i m
+rum l uu m
+rem l E m
+rom l u m
+reum l U m
+reom l O m
+rang l a ng
+ring l i ng
+rung l uu ng
+reng l E ng
+rong l u ng
+reung l U ng
+reong l O ng
+rap l a p
+rip l i p
+rup l uu p
+rep l E p
+rop l u p
+reup l U p
+reop l O p
+rab l a b
+rib l i b
+rub l uu b
+reb l E b
+rob l u b
+reub l U b
+reob l O b
+rat l a t
+rit l i t
+rut l uu t
+ret l E t
+rot l u t
+reut l U t
+reot l O t
+rak l a k
+rik l i k
+ruk l uu k
+rek l E k
+rok l u k
+reuk l U k
+reok l O k
+rya l ia
+ryi l i
+ryu l iU
+rye l iE
+ryo l y u
+ryeu l y U
+ryeo l iO
+ryal l ia l
+ryil l i l
+ryul l iU l
+ryel l iE l
+ryol l y u l
+ryeul l y U l
+ryeol l iO l
+ryan l ia N
+ryin l i N
+ryun l iU N
+ryen l iE N
+ryon l y u N
+ryeun l y U N
+ryeon l iO N
+ryam l ia m
+ryim l i m
+ryum l iU m
+ryem l iE m
+ryom l y u m
+ryeum l y U m
+ryeom l iO m
+ryang l ia ng
+rying l i ng
+ryung l iU ng
+ryeng l iE ng
+ryong l y u ng
+ryeung l y U ng
+ryeong l iO ng
+ryap l ia p
+ryip l i p
+ryup l iU p
+ryep l iE p
+ryop l y u p
+ryeup l y U p
+ryeop l iO p
+ryab l ia b
+ryib l i b
+ryub l iU b
+ryeb l iE b
+ryob l y u b
+ryeub l y U b
+ryeob l iO b
+ryat l ia t
+ryit l i t
+ryut l iU t
+ryet l iE t
+ryot l y u t
+ryeut l y U t
+ryeot l iO t
+ryak l ia k
+ryik l i k
+ryuk l iU k
+ryek l iE k
+ryok l y u k
+ryeuk l y U k
+ryeok l iO k
+rwa l ua
+rwi l w i
+rwu l w uu
+rwe l uE
+rwo l w u
+rweu l w U
+rweo l uo
+rwal l ua l
+rwil l w i l
+rwul l w uu l
+rwel l uE l
+rwol l w u l
+rweul l w U l
+rweol l uo l
+rwan l ua N
+rwin l w i N
+rwun l w uu N
+rwen l uE N
+rwon l w u N
+rweun l w U N
+rweon l uo N
+rwam l ua m
+rwim l w i m
+rwum l w uu m
+rwem l uE m
+rwom l w u m
+rweum l w U m
+rweom l uo m
+rwang l ua ng
+rwing l w i ng
+rwung l w uu ng
+rweng l uE ng
+rwong l w u ng
+rweung l w U ng
+rweong l uo ng
+rwap l ua p
+rwip l w i p
+rwup l w uu p
+rwep l uE p
+rwop l w u p
+rweup l w U p
+rweop l uo p
+rwab l ua b
+rwib l w i b
+rwub l w uu b
+rweb l uE b
+rwob l w u b
+rweub l w U b
+rweob l uo b
+rwat l ua t
+rwit l w i t
+rwut l w uu t
+rwet l uE t
+rwot l w u t
+rweut l w U t
+rweot l uo t
+rwak l ua k
+rwik l w i k
+rwuk l w uu k
+rwek l uE k
+rwok l w u k
+rweuk l w U k
+rweok l uo k
+la l a
+li l i
+lu l uu
+le l E
+lo l u
+leu l U
+leo l O
+lal l a l
+lil l i l
+lul l uu l
+lel l E l
+lol l u l
+leul l U l
+leol l O l
+lan l a N
+lin l i N
+lun l uu N
+len l E N
+lon l u N
+leun l U N
+leon l O N
+lam l a m
+lim l i m
+lum l uu m
+lem l E m
+lom l u m
+leum l U m
+leom l O m
+lang l a ng
+ling l i ng
+lung l uu ng
+leng l E ng
+long l u ng
+leung l U ng
+leong l O ng
+lap l a p
+lip l i p
+lup l uu p
+lep l E p
+lop l u p
+leup l U p
+leop l O p
+lab l a b
+lib l i b
+lub l uu b
+leb l E b
+lob l u b
+leub l U b
+leob l O b
+lat l a t
+lit l i t
+lut l uu t
+let l E t
+lot l u t
+leut l U t
+leot l O t
+lak l a k
+lik l i k
+luk l uu k
+lek l E k
+lok l u k
+leuk l U k
+leok l O k
+lya l ia
+lyi l i
+lyu l iU
+lye l iE
+lyo l y u
+lyeu l y U
+lyeo l iO
+lyal l ia l
+lyil l i l
+lyul l iU l
+lyel l iE l
+lyol l y u l
+lyeul l y U l
+lyeol l iO l
+lyan l ia N
+lyin l i N
+lyun l iU N
+lyen l iE N
+lyon l y u N
+lyeun l y U N
+lyeon l iO N
+lyam l ia m
+lyim l i m
+lyum l iU m
+lyem l iE m
+lyom l y u m
+lyeum l y U m
+lyeom l iO m
+lyang l ia ng
+lying l i ng
+lyung l iU ng
+lyeng l iE ng
+lyong l y u ng
+lyeung l y U ng
+lyeong l iO ng
+lyap l ia p
+lyip l i p
+lyup l iU p
+lyep l iE p
+lyop l y u p
+lyeup l y U p
+lyeop l iO p
+lyab l ia b
+lyib l i b
+lyub l iU b
+lyeb l iE b
+lyob l y u b
+lyeub l y U b
+lyeob l iO b
+lyat l ia t
+lyit l i t
+lyut l iU t
+lyet l iE t
+lyot l y u t
+lyeut l y U t
+lyeot l iO t
+lyak l ia k
+lyik l i k
+lyuk l iU k
+lyek l iE k
+lyok l y u k
+lyeuk l y U k
+lyeok l iO k
+lwa l ua
+lwi l w i
+lwu l w uu
+lwe l uE
+lwo l w u
+lweu l w U
+lweo l uo
+lwal l ua l
+lwil l w i l
+lwul l w uu l
+lwel l uE l
+lwol l w u l
+lweul l w U l
+lweol l uo l
+lwan l ua N
+lwin l w i N
+lwun l w uu N
+lwen l uE N
+lwon l w u N
+lweun l w U N
+lweon l uo N
+lwam l ua m
+lwim l w i m
+lwum l w uu m
+lwem l uE m
+lwom l w u m
+lweum l w U m
+lweom l uo m
+lwang l ua ng
+lwing l w i ng
+lwung l w uu ng
+lweng l uE ng
+lwong l w u ng
+lweung l w U ng
+lweong l uo ng
+lwap l ua p
+lwip l w i p
+lwup l w uu p
+lwep l uE p
+lwop l w u p
+lweup l w U p
+lweop l uo p
+lwab l ua b
+lwib l w i b
+lwub l w uu b
+lweb l uE b
+lwob l w u b
+lweub l w U b
+lweob l uo b
+lwat l ua t
+lwit l w i t
+lwut l w uu t
+lwet l uE t
+lwot l w u t
+lweut l w U t
+lweot l uo t
+lwak l ua k
+lwik l w i k
+lwuk l w uu k
+lwek l uE k
+lwok l w u k
+lweuk l w U k
+lweok l uo k
+ma m a
+mi m i
+mu m uu
+me m E
+mo m u
+meu m U
+meo m O
+mal m a l
+mil m i l
+mul m uu l
+mel m E l
+mol m u l
+meul m U l
+meol m O l
+man m a N
+min m i N
+mun m uu N
+men m E N
+mon m u N
+meun m U N
+meon m O N
+mam m a m
+mim m i m
+mum m uu m
+mem m E m
+mom m u m
+meum m U m
+meom m O m
+mang m a ng
+ming m i ng
+mung m uu ng
+meng m E ng
+mong m u ng
+meung m U ng
+meong m O ng
+map m a p
+mip m i p
+mup m uu p
+mep m E p
+mop m u p
+meup m U p
+meop m O p
+mab m a b
+mib m i b
+mub m uu b
+meb m E b
+mob m u b
+meub m U b
+meob m O b
+mat m a t
+mit m i t
+mut m uu t
+met m E t
+mot m u t
+meut m U t
+meot m O t
+mak m a k
+mik m i k
+muk m uu k
+mek m E k
+mok m u k
+meuk m U k
+meok m O k
+mya m ia
+myi m i
+myu m iU
+mye m iE
+myo m y u
+myeu m y U
+myeo m iO
+myal m ia l
+myil m i l
+myul m iU l
+myel m iE l
+myol m y u l
+myeul m y U l
+myeol m iO l
+myan m ia N
+myin m i N
+myun m iU N
+myen m iE N
+myon m y u N
+myeun m y U N
+myeon m iO N
+myam m ia m
+myim m i m
+myum m iU m
+myem m iE m
+myom m y u m
+myeum m y U m
+myeom m iO m
+myang m ia ng
+mying m i ng
+myung m iU ng
+myeng m iE ng
+myong m y u ng
+myeung m y U ng
+myeong m iO ng
+myap m ia p
+myip m i p
+myup m iU p
+myep m iE p
+myop m y u p
+myeup m y U p
+myeop m iO p
+myab m ia b
+myib m i b
+myub m iU b
+myeb m iE b
+myob m y u b
+myeub m y U b
+myeob m iO b
+myat m ia t
+myit m i t
+myut m iU t
+myet m iE t
+myot m y u t
+myeut m y U t
+myeot m iO t
+myak m ia k
+myik m i k
+myuk m iU k
+myek m iE k
+myok m y u k
+myeuk m y U k
+myeok m iO k
+mwa m ua
+mwi m w i
+mwu m w uu
+mwe m uE
+mwo m w u
+mweu m w U
+mweo m uo
+mwal m ua l
+mwil m w i l
+mwul m w uu l
+mwel m uE l
+mwol m w u l
+mweul m w U l
+mweol m uo l
+mwan m ua N
+mwin m w i N
+mwun m w uu N
+mwen m uE N
+mwon m w u N
+mweun m w U N
+mweon m uo N
+mwam m ua m
+mwim m w i m
+mwum m w uu m
+mwem m uE m
+mwom m w u m
+mweum m w U m
+mweom m uo m
+mwang m ua ng
+mwing m w i ng
+mwung m w uu ng
+mweng m uE ng
+mwong m w u ng
+mweung m w U ng
+mweong m uo ng
+mwap m ua p
+mwip m w i p
+mwup m w uu p
+mwep m uE p
+mwop m w u p
+mweup m w U p
+mweop m uo p
+mwab m ua b
+mwib m w i b
+mwub m w uu b
+mweb m uE b
+mwob m w u b
+mweub m w U b
+mweob m uo b
+mwat m ua t
+mwit m w i t
+mwut m w uu t
+mwet m uE t
+mwot m w u t
+mweut m w U t
+mweot m uo t
+mwak m ua k
+mwik m w i k
+mwuk m w uu k
+mwek m uE k
+mwok m w u k
+mweuk m w U k
+mweok m uo k
+ba b a
+bi b i
+bu b uu
+be b E
+bo b u
+beu b U
+beo b O
+bal b a l
+bil b i l
+bul b uu l
+bel b E l
+bol b u l
+beul b U l
+beol b O l
+ban b a N
+bin b i N
+bun b uu N
+ben b E N
+bon b u N
+beun b U N
+beon b O N
+bam b a m
+bim b i m
+bum b uu m
+bem b E m
+bom b u m
+beum b U m
+beom b O m
+bang b a ng
+bing b i ng
+bung b uu ng
+beng b E ng
+bong b u ng
+beung b U ng
+beong b O ng
+bap b a p
+bip b i p
+bup b uu p
+bep b E p
+bop b u p
+beup b U p
+beop b O p
+bab b a b
+bib b i b
+bub b uu b
+beb b E b
+bob b u b
+beub b U b
+beob b O b
+bat b a t
+bit b i t
+but b uu t
+bet b E t
+bot b u t
+beut b U t
+beot b O t
+bak b a k
+bik b i k
+buk b uu k
+bek b E k
+bok b u k
+beuk b U k
+beok b O k
+bya b ia
+byi b i
+byu b iU
+bye b iE
+byo b y u
+byeu b y U
+byeo b iO
+byal b ia l
+byil b i l
+byul b iU l
+byel b iE l
+byol b y u l
+byeul b y U l
+byeol b iO l
+byan b ia N
+byin b i N
+byun b iU N
+byen b iE N
+byon b y u N
+byeun b y U N
+byeon b iO N
+byam b ia m
+byim b i m
+byum b iU m
+byem b iE m
+byom b y u m
+byeum b y U m
+byeom b iO m
+byang b ia ng
+bying b i ng
+byung b iU ng
+byeng b iE ng
+byong b y u ng
+byeung b y U ng
+byeong b iO ng
+byap b ia p
+byip b i p
+byup b iU p
+byep b iE p
+byop b y u p
+byeup b y U p
+byeop b iO p
+byab b ia b
+byib b i b
+byub b iU b
+byeb b iE b
+byob b y u b
+byeub b y U b
+byeob b iO b
+byat b ia t
+byit b i t
+byut b iU t
+byet b iE t
+byot b y u t
+byeut b y U t
+byeot b iO t
+byak b ia k
+byik b i k
+byuk b iU k
+byek b iE k
+byok b y u k
+byeuk b y U k
+byeok b iO k
+bwa b ua
+bwi b w i
+bwu b w uu
+bwe b uE
+bwo b w u
+bweu b w U
+bweo b uo
+bwal b ua l
+bwil b w i l
+bwul b w uu l
+bwel b uE l
+bwol b w u l
+bweul b w U l
+bweol b uo l
+bwan b ua N
+bwin b w i N
+bwun b w uu N
+bwen b uE N
+bwon b w u N
+bweun b w U N
+bweon b uo N
+bwam b ua m
+bwim b w i m
+bwum b w uu m
+bwem b uE m
+bwom b w u m
+bweum b w U m
+bweom b uo m
+bwang b ua ng
+bwing b w i ng
+bwung b w uu ng
+bweng b uE ng
+bwong b w u ng
+bweung b w U ng
+bweong b uo ng
+bwap b ua p
+bwip b w i p
+bwup b w uu p
+bwep b uE p
+bwop b w u p
+bweup b w U p
+bweop b uo p
+bwab b ua b
+bwib b w i b
+bwub b w uu b
+bweb b uE b
+bwob b w u b
+bweub b w U b
+bweob b uo b
+bwat b ua t
+bwit b w i t
+bwut b w uu t
+bwet b uE t
+bwot b w u t
+bweut b w U t
+bweot b uo t
+bwak b ua k
+bwik b w i k
+bwuk b w uu k
+bwek b uE k
+bwok b w u k
+bweuk b w U k
+bweok b uo k
+sa s a
+si x i
+su s uu
+se s E
+so s u
+seu s U
+seo s O
+sal s a l
+sil x i l
+sul s uu l
+sel s E l
+sol s u l
+seul s U l
+seol s O l
+san s a N
+sin x i N
+sun s uu N
+sen s E N
+son s u N
+seun s U N
+seon s O N
+sam s a m
+sim x i m
+sum s uu m
+sem s E m
+som s u m
+seum s U m
+seom s O m
+sang s a ng
+sing x i ng
+sung s uu ng
+seng s E ng
+song s u ng
+seung s U ng
+seong s O ng
+sap s a p
+sip x i p
+sup s uu p
+sep s E p
+sop s u p
+seup s U p
+seop s O p
+sab s a b
+sib x i b
+sub s uu b
+seb s E b
+sob s u b
+seub s U b
+seob s O b
+sat s a t
+sit x i t
+sut s uu t
+set s E t
+sot s u t
+seut s U t
+seot s O t
+sak s a k
+sik x i k
+suk s uu k
+sek s E k
+sok s u k
+seuk s U k
+seok s O k
+sya x ia
+syi x i
+syu x iU
+sye x iE
+syo x i u
+syeu x i U
+syeo x iO
+syal x ia l
+syil x i l
+syul x iU l
+syel x iE l
+syol x i u l
+syeul x i U l
+syeol x iO l
+syan x ia N
+syin x i N
+syun x iU N
+syen x iE N
+syon x i u N
+syeun x i U N
+syeon x iO N
+syam x ia m
+syim x i m
+syum x iU m
+syem x iE m
+syom x i u m
+syeum x i U m
+syeom x iO m
+syang x ia ng
+sying x i ng
+syung x iU ng
+syeng x iE ng
+syong x i u ng
+syeung x i U ng
+syeong x iO ng
+syap x ia p
+syip x i p
+syup x iU p
+syep x iE p
+syop x i u p
+syeup x i U p
+syeop x iO p
+syab x ia b
+syib x i b
+syub x iU b
+syeb x iE b
+syob x i u b
+syeub x i U b
+syeob x iO b
+syat x ia t
+syit x i t
+syut x iU t
+syet x iE t
+syot x i u t
+syeut x i U t
+syeot x iO t
+syak x ia k
+syik x i k
+syuk x iU k
+syek x iE k
+syok x i u k
+syeuk x i U k
+syeok x iO k
+swa s ua
+swi s w i
+swu s w uu
+swe s uE
+swo s w u
+sweu s w U
+sweo s uo
+swal s ua l
+swil s w i l
+swul s w uu l
+swel s uE l
+swol s w u l
+sweul s w U l
+sweol s uo l
+swan s ua N
+swin s w i N
+swun s w uu N
+swen s uE N
+swon s w u N
+sweun s w U N
+sweon s uo N
+swam s ua m
+swim s w i m
+swum s w uu m
+swem s uE m
+swom s w u m
+sweum s w U m
+sweom s uo m
+swang s ua ng
+swing s w i ng
+swung s w uu ng
+sweng s uE ng
+swong s w u ng
+sweung s w U ng
+sweong s uo ng
+swap s ua p
+swip s w i p
+swup s w uu p
+swep s uE p
+swop s w u p
+sweup s w U p
+sweop s uo p
+swab s ua b
+swib s w i b
+swub s w uu b
+sweb s uE b
+swob s w u b
+sweub s w U b
+sweob s uo b
+swat s ua t
+swit s w i t
+swut s w uu t
+swet s uE t
+swot s w u t
+sweut s w U t
+sweot s uo t
+swak s ua k
+swik s w i k
+swuk s w uu k
+swek s uE k
+swok s w u k
+sweuk s w U k
+sweok s uo k
+ssa s a
+ssi s i
+ssu s uu
+sse s E
+sso s u
+sseu s U
+sseo s O
+ssal s a l
+ssil s i l
+ssul s uu l
+ssel s E l
+ssol s u l
+sseul s U l
+sseol s O l
+ssan s a N
+ssin s i N
+ssun s uu N
+ssen s E N
+sson s u N
+sseun s U N
+sseon s O N
+ssam s a m
+ssim s i m
+ssum s uu m
+ssem s E m
+ssom s u m
+sseum s U m
+sseom s O m
+ssang s a ng
+ssing s i ng
+ssung s uu ng
+sseng s E ng
+ssong s u ng
+sseung s U ng
+sseong s O ng
+ssap s a p
+ssip s i p
+ssup s uu p
+ssep s E p
+ssop s u p
+sseup s U p
+sseop s O p
+ssab s a b
+ssib s i b
+ssub s uu b
+sseb s E b
+ssob s u b
+sseub s U b
+sseob s O b
+ssat s a t
+ssit s i t
+ssut s uu t
+sset s E t
+ssot s u t
+sseut s U t
+sseot s O t
+ssak s a k
+ssik s i k
+ssuk s uu k
+ssek s E k
+ssok s u k
+sseuk s U k
+sseok s O k
+ssya s ia
+ssyi s i
+ssyu s iU
+ssye s iE
+ssyo s y u
+ssyeu s y U
+ssyeo s iO
+ssyal s ia l
+ssyil s i l
+ssyul s iU l
+ssyel s iE l
+ssyol s y u l
+ssyeul s y U l
+ssyeol s iO l
+ssyan s ia N
+ssyin s i N
+ssyun s iU N
+ssyen s iE N
+ssyon s y u N
+ssyeun s y U N
+ssyeon s iO N
+ssyam s ia m
+ssyim s i m
+ssyum s iU m
+ssyem s iE m
+ssyom s y u m
+ssyeum s y U m
+ssyeom s iO m
+ssyang s ia ng
+ssying s i ng
+ssyung s iU ng
+ssyeng s iE ng
+ssyong s y u ng
+ssyeung s y U ng
+ssyeong s iO ng
+ssyap s ia p
+ssyip s i p
+ssyup s iU p
+ssyep s iE p
+ssyop s y u p
+ssyeup s y U p
+ssyeop s iO p
+ssyab s ia b
+ssyib s i b
+ssyub s iU b
+ssyeb s iE b
+ssyob s y u b
+ssyeub s y U b
+ssyeob s iO b
+ssyat s ia t
+ssyit s i t
+ssyut s iU t
+ssyet s iE t
+ssyot s y u t
+ssyeut s y U t
+ssyeot s iO t
+ssyak s ia k
+ssyik s i k
+ssyuk s iU k
+ssyek s iE k
+ssyok s y u k
+ssyeuk s y U k
+ssyeok s iO k
+sswa s ua
+sswi s w i
+sswu s w uu
+sswe s uE
+sswo s w u
+ssweu s w U
+ssweo s uo
+sswal s ua l
+sswil s w i l
+sswul s w uu l
+sswel s uE l
+sswol s w u l
+ssweul s w U l
+ssweol s uo l
+sswan s ua N
+sswin s w i N
+sswun s w uu N
+sswen s uE N
+sswon s w u N
+ssweun s w U N
+ssweon s uo N
+sswam s ua m
+sswim s w i m
+sswum s w uu m
+sswem s uE m
+sswom s w u m
+ssweum s w U m
+ssweom s uo m
+sswang s ua ng
+sswing s w i ng
+sswung s w uu ng
+ssweng s uE ng
+sswong s w u ng
+ssweung s w U ng
+ssweong s uo ng
+sswap s ua p
+sswip s w i p
+sswup s w uu p
+sswep s uE p
+sswop s w u p
+ssweup s w U p
+ssweop s uo p
+sswab s ua b
+sswib s w i b
+sswub s w uu b
+ssweb s uE b
+sswob s w u b
+ssweub s w U b
+ssweob s uo b
+sswat s ua t
+sswit s w i t
+sswut s w uu t
+sswet s uE t
+sswot s w u t
+ssweut s w U t
+ssweot s uo t
+sswak s ua k
+sswik s w i k
+sswuk s w uu k
+sswek s uE k
+sswok s w u k
+ssweuk s w U k
+ssweok s uo k
+ja j a
+ji j i
+ju j uu
+je j E
+jo j u
+jeu j U
+jeo j O
+jal j a l
+jil j i l
+jul j uu l
+jel j E l
+jol j u l
+jeul j U l
+jeol j O l
+jan j a N
+jin j i N
+jun j uu N
+jen j E N
+jon j u N
+jeun j U N
+jeon j O N
+jam j a m
+jim j i m
+jum j uu m
+jem j E m
+jom j u m
+jeum j U m
+jeom j O m
+jang j a ng
+jing j i ng
+jung j uu ng
+jeng j E ng
+jong j u ng
+jeung j U ng
+jeong j O ng
+jap j a p
+jip j i p
+jup j uu p
+jep j E p
+jop j u p
+jeup j U p
+jeop j O p
+jab j a b
+jib j i b
+jub j uu b
+jeb j E b
+job j u b
+jeub j U b
+jeob j O b
+jat j a t
+jit j i t
+jut j uu t
+jet j E t
+jot j u t
+jeut j U t
+jeot j O t
+jak j a k
+jik j i k
+juk j uu k
+jek j E k
+jok j u k
+jeuk j U k
+jeok j O k
+jya j ia
+jyi j i
+jyu j iU
+jye j iE
+jyo j y u
+jyeu j y U
+jyeo j iO
+jyal j ia l
+jyil j i l
+jyul j iU l
+jyel j iE l
+jyol j y u l
+jyeul j y U l
+jyeol j iO l
+jyan j ia N
+jyin j i N
+jyun j iU N
+jyen j iE N
+jyon j y u N
+jyeun j y U N
+jyeon j iO N
+jyam j ia m
+jyim j i m
+jyum j iU m
+jyem j iE m
+jyom j y u m
+jyeum j y U m
+jyeom j iO m
+jyang j ia ng
+jying j i ng
+jyung j iU ng
+jyeng j iE ng
+jyong j y u ng
+jyeung j y U ng
+jyeong j iO ng
+jyap j ia p
+jyip j i p
+jyup j iU p
+jyep j iE p
+jyop j y u p
+jyeup j y U p
+jyeop j iO p
+jyab j ia b
+jyib j i b
+jyub j iU b
+jyeb j iE b
+jyob j y u b
+jyeub j y U b
+jyeob j iO b
+jyat j ia t
+jyit j i t
+jyut j iU t
+jyet j iE t
+jyot j y u t
+jyeut j y U t
+jyeot j iO t
+jyak j ia k
+jyik j i k
+jyuk j iU k
+jyek j iE k
+jyok j y u k
+jyeuk j y U k
+jyeok j iO k
+jwa j ua
+jwi j w i
+jwu j w uu
+jwe j uE
+jwo j w u
+jweu j w U
+jweo j uo
+jwal j ua l
+jwil j w i l
+jwul j w uu l
+jwel j uE l
+jwol j w u l
+jweul j w U l
+jweol j uo l
+jwan j ua N
+jwin j w i N
+jwun j w uu N
+jwen j uE N
+jwon j w u N
+jweun j w U N
+jweon j uo N
+jwam j ua m
+jwim j w i m
+jwum j w uu m
+jwem j uE m
+jwom j w u m
+jweum j w U m
+jweom j uo m
+jwang j ua ng
+jwing j w i ng
+jwung j w uu ng
+jweng j uE ng
+jwong j w u ng
+jweung j w U ng
+jweong j uo ng
+jwap j ua p
+jwip j w i p
+jwup j w uu p
+jwep j uE p
+jwop j w u p
+jweup j w U p
+jweop j uo p
+jwab j ua b
+jwib j w i b
+jwub j w uu b
+jweb j uE b
+jwob j w u b
+jweub j w U b
+jweob j uo b
+jwat j ua t
+jwit j w i t
+jwut j w uu t
+jwet j uE t
+jwot j w u t
+jweut j w U t
+jweot j uo t
+jwak j ua k
+jwik j w i k
+jwuk j w uu k
+jwek j uE k
+jwok j w u k
+jweuk j w U k
+jweok j uo k
+jja q a
+jji q i
+jju q uu
+jje q E
+jjo q u
+jjeu q U
+jjeo q O
+jjal q a l
+jjil q i l
+jjul q uu l
+jjel q E l
+jjol q u l
+jjeul q U l
+jjeol q O l
+jjan q a N
+jjin q i N
+jjun q uu N
+jjen q E N
+jjon q u N
+jjeun q U N
+jjeon q O N
+jjam q a m
+jjim q i m
+jjum q uu m
+jjem q E m
+jjom q u m
+jjeum q U m
+jjeom q O m
+jjang q a ng
+jjing q i ng
+jjung q uu ng
+jjeng q E ng
+jjong q u ng
+jjeung q U ng
+jjeong q O ng
+jjap q a p
+jjip q i p
+jjup q uu p
+jjep q E p
+jjop q u p
+jjeup q U p
+jjeop q O p
+jjab q a b
+jjib q i b
+jjub q uu b
+jjeb q E b
+jjob q u b
+jjeub q U b
+jjeob q O b
+jjat q a t
+jjit q i t
+jjut q uu t
+jjet q E t
+jjot q u t
+jjeut q U t
+jjeot q O t
+jjak q a k
+jjik q i k
+jjuk q uu k
+jjek q E k
+jjok q u k
+jjeuk q U k
+jjeok q O k
+jjya q ia
+jjyi q i
+jjyu q iU
+jjye q iE
+jjyo q y u
+jjyeu q y U
+jjyeo q iO
+jjyal q ia l
+jjyil q i l
+jjyul q iU l
+jjyel q iE l
+jjyol q y u l
+jjyeul q y U l
+jjyeol q iO l
+jjyan q ia N
+jjyin q i N
+jjyun q iU N
+jjyen q iE N
+jjyon q y u N
+jjyeun q y U N
+jjyeon q iO N
+jjyam q ia m
+jjyim q i m
+jjyum q iU m
+jjyem q iE m
+jjyom q y u m
+jjyeum q y U m
+jjyeom q iO m
+jjyang q ia ng
+jjying q i ng
+jjyung q iU ng
+jjyeng q iE ng
+jjyong q y u ng
+jjyeung q y U ng
+jjyeong q iO ng
+jjyap q ia p
+jjyip q i p
+jjyup q iU p
+jjyep q iE p
+jjyop q y u p
+jjyeup q y U p
+jjyeop q iO p
+jjyab q ia b
+jjyib q i b
+jjyub q iU b
+jjyeb q iE b
+jjyob q y u b
+jjyeub q y U b
+jjyeob q iO b
+jjyat q ia t
+jjyit q i t
+jjyut q iU t
+jjyet q iE t
+jjyot q y u t
+jjyeut q y U t
+jjyeot q iO t
+jjyak q ia k
+jjyik q i k
+jjyuk q iU k
+jjyek q iE k
+jjyok q y u k
+jjyeuk q y U k
+jjyeok q iO k
+jjwa q ua
+jjwi q w i
+jjwu q w uu
+jjwe q uE
+jjwo q w u
+jjweu q w U
+jjweo q uo
+jjwal q ua l
+jjwil q w i l
+jjwul q w uu l
+jjwel q uE l
+jjwol q w u l
+jjweul q w U l
+jjweol q uo l
+jjwan q ua N
+jjwin q w i N
+jjwun q w uu N
+jjwen q uE N
+jjwon q w u N
+jjweun q w U N
+jjweon q uo N
+jjwam q ua m
+jjwim q w i m
+jjwum q w uu m
+jjwem q uE m
+jjwom q w u m
+jjweum q w U m
+jjweom q uo m
+jjwang q ua ng
+jjwing q w i ng
+jjwung q w uu ng
+jjweng q uE ng
+jjwong q w u ng
+jjweung q w U ng
+jjweong q uo ng
+jjwap q ua p
+jjwip q w i p
+jjwup q w uu p
+jjwep q uE p
+jjwop q w u p
+jjweup q w U p
+jjweop q uo p
+jjwab q ua b
+jjwib q w i b
+jjwub q w uu b
+jjweb q uE b
+jjwob q w u b
+jjweub q w U b
+jjweob q uo b
+jjwat q ua t
+jjwit q w i t
+jjwut q w uu t
+jjwet q uE t
+jjwot q w u t
+jjweut q w U t
+jjweot q uo t
+jjwak q ua k
+jjwik q w i k
+jjwuk q w uu k
+jjwek q uE k
+jjwok q w u k
+jjweuk q w U k
+jjweok q uo k
+cha ch a
+chi ch i
+chu ch uu
+che ch E
+cho ch u
+cheu ch U
+cheo ch O
+chal ch a l
+chil ch i l
+chul ch uu l
+chel ch E l
+chol ch u l
+cheul ch U l
+cheol ch O l
+chan ch a N
+chin ch i N
+chun ch uu N
+chen ch E N
+chon ch u N
+cheun ch U N
+cheon ch O N
+cham ch a m
+chim ch i m
+chum ch uu m
+chem ch E m
+chom ch u m
+cheum ch U m
+cheom ch O m
+chang ch a ng
+ching ch i ng
+chung ch uu ng
+cheng ch E ng
+chong ch u ng
+cheung ch U ng
+cheong ch O ng
+chap ch a p
+chip ch i p
+chup ch uu p
+chep ch E p
+chop ch u p
+cheup ch U p
+cheop ch O p
+chab ch a b
+chib ch i b
+chub ch uu b
+cheb ch E b
+chob ch u b
+cheub ch U b
+cheob ch O b
+chat ch a t
+chit ch i t
+chut ch uu t
+chet ch E t
+chot ch u t
+cheut ch U t
+cheot ch O t
+chak ch a k
+chik ch i k
+chuk ch uu k
+chek ch E k
+chok ch u k
+cheuk ch U k
+cheok ch O k
+chya ch ia
+chyi ch i
+chyu ch iU
+chye ch iE
+chyo ch y u
+chyeu ch y U
+chyeo ch iO
+chyal ch ia l
+chyil ch i l
+chyul ch iU l
+chyel ch iE l
+chyol ch y u l
+chyeul ch y U l
+chyeol ch iO l
+chyan ch ia N
+chyin ch i N
+chyun ch iU N
+chyen ch iE N
+chyon ch y u N
+chyeun ch y U N
+chyeon ch iO N
+chyam ch ia m
+chyim ch i m
+chyum ch iU m
+chyem ch iE m
+chyom ch y u m
+chyeum ch y U m
+chyeom ch iO m
+chyang ch ia ng
+chying ch i ng
+chyung ch iU ng
+chyeng ch iE ng
+chyong ch y u ng
+chyeung ch y U ng
+chyeong ch iO ng
+chyab ch ia b
+chyib ch i b
+chyub ch iU b
+chyeb ch iE b
+chyob ch y u b
+chyeub ch y U b
+chyeob ch iO b
+chyab ch ia b
+chyib ch i b
+chyub ch iU b
+chyeb ch iE b
+chyob ch y u b
+chyeub ch y U b
+chyeob ch iO b
+chyat ch ia t
+chyit ch i t
+chyut ch iU t
+chyet ch iE t
+chyot ch y u t
+chyeut ch y U t
+chyeot ch iO t
+chyak ch ia k
+chyik ch i k
+chyuk ch iU k
+chyek ch iE k
+chyok ch y u k
+chyeuk ch y U k
+chyeok ch iO k
+chwa ch ua
+chwi ch w i
+chwu ch w uu
+chwe ch uE
+chwo ch w u
+chweu ch w U
+chweo ch uo
+chwal ch ua l
+chwil ch w i l
+chwul ch w uu l
+chwel ch uE l
+chwol ch w u l
+chweul ch w U l
+chweol ch uo l
+chwan ch ua N
+chwin ch w i N
+chwun ch w uu N
+chwen ch uE N
+chwon ch w u N
+chweun ch w U N
+chweon ch uo N
+chwam ch ua m
+chwim ch w i m
+chwum ch w uu m
+chwem ch uE m
+chwom ch w u m
+chweum ch w U m
+chweom ch uo m
+chwang ch ua ng
+chwing ch w i ng
+chwung ch w uu ng
+chweng ch uE ng
+chwong ch w u ng
+chweung ch w U ng
+chweong ch uo ng
+chwap ch ua p
+chwip ch w i p
+chwup ch w uu p
+chwep ch uE p
+chwop ch w u p
+chweup ch w U p
+chweop ch uo p
+chwab ch ua b
+chwib ch w i b
+chwub ch w uu b
+chweb ch uE b
+chwob ch w u b
+chweub ch w U b
+chweob ch uo b
+chwat ch ua t
+chwit ch w i t
+chwut ch w uu t
+chwet ch uE t
+chwot ch w u t
+chweut ch w U t
+chweot ch uo t
+chwak ch ua k
+chwik ch w i k
+chwuk ch w uu k
+chwek ch uE k
+chwok ch w u k
+chweuk ch w U k
+chweok ch uo k
+ka k a
+ki k i
+ku k uu
+ke k E
+ko k u
+keu k U
+keo k O
+kal k a l
+kil k i l
+kul k uu l
+kel k E l
+kol k u l
+keul k U l
+keol k O l
+kan k a N
+kin k i N
+kun k uu N
+ken k E N
+kon k u N
+keun k U N
+keon k O N
+kam k a m
+kim k i m
+kum k uu m
+kem k E m
+kom k u m
+keum k U m
+keom k O m
+kang k a ng
+king k i ng
+kung k uu ng
+keng k E ng
+kong k u ng
+keung k U ng
+keong k O ng
+kap k a p
+kip k i p
+kup k uu p
+kep k E p
+kop k u p
+keup k U p
+keop k O p
+kab k a b
+kib k i b
+kub k uu b
+keb k E b
+kob k u b
+keub k U b
+keob k O b
+kat k a t
+kit k i t
+kut k uu t
+ket k E t
+kot k u t
+keut k U t
+keot k O t
+kak k a k
+kik k i k
+kuk k uu k
+kek k E k
+kok k u k
+keuk k U k
+keok k O k
+kya k ia
+kyi k i
+kyu k iU
+kye k iE
+kyo k y u
+kyeu k y U
+kyeo k iO
+kyal k ia l
+kyil k i l
+kyul k iU l
+kyel k iE l
+kyol k y u l
+kyeul k y U l
+kyeol k iO l
+kyan k ia N
+kyin k i N
+kyun k iU N
+kyen k iE N
+kyon k y u N
+kyeun k y U N
+kyeon k iO N
+kyam k ia m
+kyim k i m
+kyum k iU m
+kyem k iE m
+kyom k y u m
+kyeum k y U m
+kyeom k iO m
+kyang k ia ng
+kying k i ng
+kyung k iU ng
+kyeng k iE ng
+kyong k y u ng
+kyeung k y U ng
+kyeong k iO ng
+kyap k ia p
+kyip k i p
+kyup k iU p
+kyep k iE p
+kyop k y u p
+kyeup k y U p
+kyeop k iO p
+kyab k ia b
+kyib k i b
+kyub k iU b
+kyeb k iE b
+kyob k y u b
+kyeub k y U b
+kyeob k iO b
+kyat k ia t
+kyit k i t
+kyut k iU t
+kyet k iE t
+kyot k y u t
+kyeut k y U t
+kyeot k iO t
+kyak k ia k
+kyik k i k
+kyuk k iU k
+kyek k iE k
+kyok k y u k
+kyeuk k y U k
+kyeok k iO k
+kwa k ua
+kwi k w i
+kwu k w uu
+kwe k uE
+kwo k w u
+kweu k w U
+kweo k uo
+kwal k ua l
+kwil k w i l
+kwul k w uu l
+kwel k uE l
+kwol k w u l
+kweul k w U l
+kweol k uo l
+kwan k ua N
+kwin k w i N
+kwun k w uu N
+kwen k uE N
+kwon k w u N
+kweun k w U N
+kweon k uo N
+kwam k ua m
+kwim k w i m
+kwum k w uu m
+kwem k uE m
+kwom k w u m
+kweum k w U m
+kweom k uo m
+kwang k ua ng
+kwing k w i ng
+kwung k w uu ng
+kweng k uE ng
+kwong k w u ng
+kweung k w U ng
+kweong k uo ng
+kwap k ua p
+kwip k w i p
+kwup k w uu p
+kwep k uE p
+kwop k w u p
+kweup k w U p
+kweop k uo p
+kwab k ua b
+kwib k w i b
+kwub k w uu b
+kweb k uE b
+kwob k w u b
+kweub k w U b
+kweob k uo b
+kwat k ua t
+kwit k w i t
+kwut k w uu t
+kwet k uE t
+kwot k w u t
+kweut k w U t
+kweot k uo t
+kwak k ua k
+kwik k w i k
+kwuk k w uu k
+kwek k uE k
+kwok k w u k
+kweuk k w U k
+kweok k uo k
+kka k a
+kki k i
+kku k uu
+kke k E
+kko k u
+kkeu k U
+kkeo k O
+kkal k a l
+kkil k i l
+kkul k uu l
+kkel k E l
+kkol k u l
+kkeul k U l
+kkeol k O l
+kkan k a N
+kkin k i N
+kkun k uu N
+kken k E N
+kkon k u N
+kkeun k U N
+kkeon k O N
+kkam k a m
+kkim k i m
+kkum k uu m
+kkem k E m
+kkom k u m
+kkeum k U m
+kkeom k O m
+kkang k a ng
+kking k i ng
+kkung k uu ng
+kkeng k E ng
+kkong k u ng
+kkeung k U ng
+kkeong k O ng
+kkap k a p
+kkip k i p
+kkup k uu p
+kkep k E p
+kkop k u p
+kkeup k U p
+kkeop k O p
+kkab k a b
+kkib k i b
+kkub k uu b
+kkeb k E b
+kkob k u b
+kkeub k U b
+kkeob k O b
+kkat k a t
+kkit k i t
+kkut k uu t
+kket k E t
+kkot k u t
+kkeut k U t
+kkeot k O t
+kkak k a k
+kkik k i k
+kkuk k uu k
+kkek k E k
+kkok k u k
+kkeuk k U k
+kkeok k O k
+kkya k ia
+kkyi k i
+kkyu k iU
+kkye k iE
+kkyo k y u
+kkyeu k y U
+kkyeo k iO
+kkyal k ia l
+kkyil k i l
+kkyul k iU l
+kkyel k iE l
+kkyol k y u l
+kkyeul k y U l
+kkyeol k iO l
+kkyan k ia N
+kkyin k i N
+kkyun k iU N
+kkyen k iE N
+kkyon k y u N
+kkyeun k y U N
+kkyeon k iO N
+kkyam k ia m
+kkyim k i m
+kkyum k iU m
+kkyem k iE m
+kkyom k y u m
+kkyeum k y U m
+kkyeom k iO m
+kkyang k ia ng
+kkying k i ng
+kkyung k iU ng
+kkyeng k iE ng
+kkyong k y u ng
+kkyeung k y U ng
+kkyeong k iO ng
+kkyap k ia p
+kkyip k i p
+kkyup k iU p
+kkyep k iE p
+kkyop k y u p
+kkyeup k y U p
+kkyeop k iO p
+kkyab k ia b
+kkyib k i b
+kkyub k iU b
+kkyeb k iE b
+kkyob k y u b
+kkyeub k y U b
+kkyeob k iO b
+kkyat k ia t
+kkyit k i t
+kkyut k iU t
+kkyet k iE t
+kkyot k y u t
+kkyeut k y U t
+kkyeot k iO t
+kkyak k ia k
+kkyik k i k
+kkyuk k iU k
+kkyek k iE k
+kkyok k y u k
+kkyeuk k y U k
+kkyeok k iO k
+kkwa k ua
+kkwi k w i
+kkwu k w uu
+kkwe k uE
+kkwo k w u
+kkweu k w U
+kkweo k uo
+kkwal k ua l
+kkwil k w i l
+kkwul k w uu l
+kkwel k uE l
+kkwol k w u l
+kkweul k w U l
+kkweol k uo l
+kkwan k ua N
+kkwin k w i N
+kkwun k w uu N
+kkwen k uE N
+kkwon k w u N
+kkweun k w U N
+kkweon k uo N
+kkwam k ua m
+kkwim k w i m
+kkwum k w uu m
+kkwem k uE m
+kkwom k w u m
+kkweum k w U m
+kkweom k uo m
+kkwang k ua ng
+kkwing k w i ng
+kkwung k w uu ng
+kkweng k uE ng
+kkwong k w u ng
+kkweung k w U ng
+kkweong k uo ng
+kkwap k ua p
+kkwip k w i p
+kkwup k w uu p
+kkwep k uE p
+kkwop k w u p
+kkweup k w U p
+kkweop k uo p
+kkwab k ua b
+kkwib k w i b
+kkwub k w uu b
+kkweb k uE b
+kkwob k w u b
+kkweub k w U b
+kkweob k uo b
+kkwat k ua t
+kkwit k w i t
+kkwut k w uu t
+kkwet k uE t
+kkwot k w u t
+kkweut k w U t
+kkweot k uo t
+kkwak k ua k
+kkwik k w i k
+kkwuk k w uu k
+kkwek k uE k
+kkwok k w u k
+kkweuk k w U k
+kkweok k uo k
+ta t a
+ti t i
+tu t uu
+te t E
+to t u
+teu t U
+teo t O
+tal t a l
+til t i l
+tul t uu l
+tel t E l
+tol t u l
+teul t U l
+teol t O l
+tan t a N
+tin t i N
+tun t uu N
+ten t E N
+ton t u N
+teun t U N
+teon t O N
+tam t a m
+tim t i m
+tum t uu m
+tem t E m
+tom t u m
+teum t U m
+teom t O m
+tang t a ng
+ting t i ng
+tung t uu ng
+teng t E ng
+tong t u ng
+teung t U ng
+teong t O ng
+tap t a p
+tip t i p
+tup t uu p
+tep t E p
+top t u p
+teup t U p
+teop t O p
+tab t a b
+tib t i b
+tub t uu b
+teb t E b
+tob t u b
+teub t U b
+teob t O b
+tat t a t
+tit t i t
+tut t uu t
+tet t E t
+tot t u t
+teut t U t
+teot t O t
+tak t a k
+tik t i k
+tuk t uu k
+tek t E k
+tok t u k
+teuk t U k
+teok t O k
+tya t ia
+tyi t i
+tyu t iU
+tye t iE
+tyo t y u
+tyeu t y U
+tyeo t iO
+tyal t ia l
+tyil t i l
+tyul t iU l
+tyel t iE l
+tyol t y u l
+tyeul t y U l
+tyeol t iO l
+tyan t ia N
+tyin t i N
+tyun t iU N
+tyen t iE N
+tyon t y u N
+tyeun t y U N
+tyeon t iO N
+tyam t ia m
+tyim t i m
+tyum t iU m
+tyem t iE m
+tyom t y u m
+tyeum t y U m
+tyeom t iO m
+tyang t ia ng
+tying t i ng
+tyung t iU ng
+tyeng t iE ng
+tyong t y u ng
+tyeung t y U ng
+tyeong t iO ng
+tyap t ia p
+tyip t i p
+tyup t iU p
+tyep t iE p
+tyop t y u p
+tyeup t y U p
+tyeop t iO p
+tyab t ia b
+tyib t i b
+tyub t iU b
+tyeb t iE b
+tyob t y u b
+tyeub t y U b
+tyeob t iO b
+tyat t ia t
+tyit t i t
+tyut t iU t
+tyet t iE t
+tyot t y u t
+tyeut t y U t
+tyeot t iO t
+tyak t ia k
+tyik t i k
+tyuk t iU k
+tyek t iE k
+tyok t y u k
+tyeuk t y U k
+tyeok t iO k
+twa t ua
+twi t w i
+twu t w uu
+twe t uE
+two t w u
+tweu t w U
+tweo t uo
+twal t ua l
+twil t w i l
+twul t w uu l
+twel t uE l
+twol t w u l
+tweul t w U l
+tweol t uo l
+twan t ua N
+twin t w i N
+twun t w uu N
+twen t uE N
+twon t w u N
+tweun t w U N
+tweon t uo N
+twam t ua m
+twim t w i m
+twum t w uu m
+twem t uE m
+twom t w u m
+tweum t w U m
+tweom t uo m
+twang t ua ng
+twing t w i ng
+twung t w uu ng
+tweng t uE ng
+twong t w u ng
+tweung t w U ng
+tweong t uo ng
+twap t ua p
+twip t w i p
+twup t w uu p
+twep t uE p
+twop t w u p
+tweup t w U p
+tweop t uo p
+twab t ua b
+twib t w i b
+twub t w uu b
+tweb t uE b
+twob t w u b
+tweub t w U b
+tweob t uo b
+twat t ua t
+twit t w i t
+twut t w uu t
+twet t uE t
+twot t w u t
+tweut t w U t
+tweot t uo t
+twak t ua k
+twik t w i k
+twuk t w uu k
+twek t uE k
+twok t w u k
+tweuk t w U k
+tweok t uo k
+pa p a
+pi p i
+pu p uu
+pe p E
+po p u
+peu p U
+peo p O
+pal p a l
+pil p i l
+pul p uu l
+pel p E l
+pol p u l
+peul p U l
+peol p O l
+pan p a N
+pin p i N
+pun p uu N
+pen p E N
+pon p u N
+peun p U N
+peon p O N
+pam p a m
+pim p i m
+pum p uu m
+pem p E m
+pom p u m
+peum p U m
+peom p O m
+pang p a ng
+ping p i ng
+pung p uu ng
+peng p E ng
+pong p u ng
+peung p U ng
+peong p O ng
+pap p a p
+pip p i p
+pup p uu p
+pep p E p
+pop p u p
+peup p U p
+peop p O p
+pab p a b
+pib p i b
+pub p uu b
+peb p E b
+pob p u b
+peub p U b
+peob p O b
+pab p a b
+pib p i b
+pub p uu b
+peb p E b
+pob p u b
+peub p U b
+peob p O b
+pat p a t
+pit p i t
+put p uu t
+pet p E t
+pot p u t
+peut p U t
+peot p O t
+pak p a k
+pik p i k
+puk p uu k
+pek p E k
+pok p u k
+peuk p U k
+peok p O k
+pya p ia
+pyi p i
+pyu p iU
+pye p iE
+pyo p y u
+pyeu p y U
+pyeo p iO
+pyal p ia l
+pyil p i l
+pyul p iU l
+pyel p iE l
+pyol p y u l
+pyeul p y U l
+pyeol p iO l
+pyan p ia N
+pyin p i N
+pyun p iU N
+pyen p iE N
+pyon p y u N
+pyeun p y U N
+pyeon p iO N
+pyam p ia m
+pyim p i m
+pyum p iU m
+pyem p iE m
+pyom p y u m
+pyeum p y U m
+pyeom p iO m
+pyang p ia ng
+pying p i ng
+pyung p iU ng
+pyeng p iE ng
+pyong p y u ng
+pyeung p y U ng
+pyeong p iO ng
+pyap p ia p
+pyip p i p
+pyup p iU p
+pyep p iE p
+pyop p y u p
+pyeup p y U p
+pyeop p iO p
+pyab p ia b
+pyib p i b
+pyub p iU b
+pyeb p iE b
+pyob p y u b
+pyeub p y U b
+pyeob p iO b
+pyat p ia t
+pyit p i t
+pyut p iU t
+pyet p iE t
+pyot p y u t
+pyeut p y U t
+pyeot p iO t
+pyak p ia k
+pyik p i k
+pyuk p iU k
+pyek p iE k
+pyok p y u k
+pyeuk p y U k
+pyeok p iO k
+pwa p ua
+pwi p w i
+pwu p w uu
+pwe p uE
+pwo p w u
+pweu p w U
+pweo p uo
+pwal p ua l
+pwil p w i l
+pwul p w uu l
+pwel p uE l
+pwol p w u l
+pweul p w U l
+pweol p uo l
+pwan p ua N
+pwin p w i N
+pwun p w uu N
+pwen p uE N
+pwon p w u N
+pweun p w U N
+pweon p uo N
+pwam p ua m
+pwim p w i m
+pwum p w uu m
+pwem p uE m
+pwom p w u m
+pweum p w U m
+pweom p uo m
+pwang p ua ng
+pwing p w i ng
+pwung p w uu ng
+pweng p uE ng
+pwong p w u ng
+pweung p w U ng
+pweong p uo ng
+pwap p ua p
+pwip p w i p
+pwup p w uu p
+pwep p uE p
+pwop p w u p
+pweup p w U p
+pweop p uo p
+pwab p ua b
+pwib p w i b
+pwub p w uu b
+pweb p uE b
+pwob p w u b
+pweub p w U b
+pweob p uo b
+pwat p ua t
+pwit p w i t
+pwut p w uu t
+pwet p uE t
+pwot p w u t
+pweut p w U t
+pweot p uo t
+pwak p ua k
+pwik p w i k
+pwuk p w uu k
+pwek p uE k
+pwok p w u k
+pweuk p w U k
+pweok p uo k
+ha h a
+hi h i
+hu h uu
+he h E
+ho h u
+heu h U
+heo h O
+hal h a l
+hil h i l
+hul h uu l
+hel h E l
+hol h u l
+heul h U l
+heol h O l
+han h a N
+hin h i N
+hun h uu N
+hen h E N
+hon h u N
+heun h U N
+heon h O N
+ham h a m
+him h i m
+hum h uu m
+hem h E m
+hom h u m
+heum h U m
+heom h O m
+hang h a ng
+hing h i ng
+hung h uu ng
+heng h E ng
+hong h u ng
+heung h U ng
+heong h O ng
+hap h a p
+hip h i p
+hup h uu p
+hep h E p
+hop h u p
+heup h U p
+heop h O p
+hab h a b
+hib h i b
+hub h uu b
+heb h E b
+hob h u b
+heub h U b
+heob h O b
+hat h a t
+hit h i t
+hut h uu t
+het h E t
+hot h u t
+heut h U t
+heot h O t
+hak h a k
+hik h i k
+huk h uu k
+hek h E k
+hok h u k
+heuk h U k
+heok h O k
+hya h ia
+hyi h i
+hyu h iU
+hye h iE
+hyo h y u
+hyeu h y U
+hyeo h iO
+hyal h ia l
+hyil h i l
+hyul h iU l
+hyel h iE l
+hyol h y u l
+hyeul h y U l
+hyeol h iO l
+hyan h ia N
+hyin h i N
+hyun h iU N
+hyen h iE N
+hyon h y u N
+hyeun h y U N
+hyeon h iO N
+hyam h ia m
+hyim h i m
+hyum h iU m
+hyem h iE m
+hyom h y u m
+hyeum h y U m
+hyeom h iO m
+hyang h ia ng
+hying h i ng
+hyung h iU ng
+hyeng h iE ng
+hyong h y u ng
+hyeung h y U ng
+hyeong h iO ng
+hyap h ia p
+hyip h i p
+hyup h iU p
+hyep h iE p
+hyop h y u p
+hyeup h y U p
+hyeop h iO p
+hyab h ia b
+hyib h i b
+hyub h iU b
+hyeb h iE b
+hyob h y u b
+hyeub h y U b
+hyeob h iO b
+hyat h ia t
+hyit h i t
+hyut h iU t
+hyet h iE t
+hyot h y u t
+hyeut h y U t
+hyeot h iO t
+hyak h ia k
+hyik h i k
+hyuk h iU k
+hyek h iE k
+hyok h y u k
+hyeuk h y U k
+hyeok h iO k
+hwa h ua
+hwi h w i
+hwu h w uu
+hwe h uE
+hwo h w u
+hweu h w U
+hweo h uo
+hwal h ua l
+hwil h w i l
+hwul h w uu l
+hwel h uE l
+hwol h w u l
+hweul h w U l
+hweol h uo l
+hwan h ua N
+hwin h w i N
+hwun h w uu N
+hwen h uE N
+hwon h w u N
+hweun h w U N
+hweon h uo N
+hwam h ua m
+hwim h w i m
+hwum h w uu m
+hwem h uE m
+hwom h w u m
+hweum h w U m
+hweom h uo m
+hwang h ua ng
+hwing h w i ng
+hwung h w uu ng
+hweng h uE ng
+hwong h w u ng
+hweung h w U ng
+hweong h uo ng
+hwap h ua p
+hwip h w i p
+hwup h w uu p
+hwep h uE p
+hwop h w u p
+hweup h w U p
+hweop h uo p
+hwab h ua b
+hwib h w i b
+hwub h w uu b
+hweb h uE b
+hwob h w u b
+hweub h w U b
+hweob h uo b
+hwat h ua t
+hwit h w i t
+hwut h w uu t
+hwet h uE t
+hwot h w u t
+hweut h w U t
+hweot h uo t
+hwak h ua k
+hwik h w i k
+hwuk h w uu k
+hwek h uE k
+hwok h w u k
+hweuk h w U k
+hweok h uo k
