@@ -39,3 +39,16 @@ If using "chinese_MDN.hed", use the following settings: (note that this certain 
 Training will not work without setting up these values correctly
 
 As of the current version, the hed includes tone flags available for altering the tone due to ENUNU's flag system, with a simple flag of `i` that ranges from i1 to i8, how the flags are assigned to different tones are completely up to you.
+
+# nnsvs-korean-sub-language-support
+The secondary dictionary named `korean.table` in /dic is for allowing Chinese databases to sing in Korean.
+NOTE: This is not an official language support and may have quality issues, this is merely made for broadening the usage of existing Chinese databases.
+
+The dictionary is based off of romanized Hangul for easier input when using [ENUNU](https://github.com/oatsu-gh/ENUNU).
+NOTE: This is made with the Chinese language in mind and so it may differ a bit from standard romanized Hangul, please refer to the dictionary or view below for correct usage. Also, some vowels were removed due to pronunciation limitations, such as ㅐ, ㅒ, ㅙ, and ㅚ.
+
+ㅔ instead of `e` is `ee/E` (ee is the dictionary entry, E is the phoneme, both work), ㅠ is `yuu/YU`. The above are exceptions to prevent existing phonemes to override eachother and cause issues, the rest should follow regular romanized Hangul.
+
+Here is demo of this dictionary being used on our beta vocal ACV-M1, the song used is Way Back Home by Shuan. 
+
+https://user-images.githubusercontent.com/107520869/180787114-db1d0569-67a5-4b2e-923d-b41cc9131362.mp4
