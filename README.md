@@ -16,7 +16,7 @@ The hed file provided in this repository was hand-written specifically for NNSVS
 
 "Phoneme Explanations.txt" includes all phonemes available for the Chinese language support with reference to their usage, the bold text within the words refer to the phoneme pronunciation in said words.
 
-Within the /dic folder is a dictionary made for NNSVS to allow for pinyin input for simpler input, with additonal support for Japanese due to the extended phoneme support made for the Hokkien/Taiwanese dialect. The pinyin section of the dictionary is heavily modified based on the default dictionary supplied for Synthesizer V while the Japanese section is modified from the default Japanese dictionary provided within the ENUNU training kit.
+Within the /dic folder is a dictionary made for NNSVS to allow for pinyin input for easier input, with additonal support for Japanese due to the extended phoneme support made for the Hokkien/Taiwanese dialect. The pinyin section of the dictionary is heavily modified based on the default dictionary supplied for Synthesizer V while the Japanese section is modified from the default Japanese dictionary provided within the ENUNU training kit.
 
 The hed file used for training can be changed via the config.yaml, found at `/train/config.yaml` within the ENUNU training kit.
 
@@ -28,7 +28,7 @@ Note that the "in_dim" value found in `/conf/train/*/model/*.yaml` used for trai
 * timelag_ffn.yaml: 368
 * timelag_mdn.yaml: 368
 
-If using "chinese_MDN.hed", use the following settings: (note that this certain hed file is useful when training the rMDN, MDN, and RMDN model types.)
+If using "chinese_MDN.hed", use the following settings: (note that this certain hed file is useful when training the MDN based model types.)
 * acoustic_conv.yaml: 272
 * acoustic_rmdn.yaml: 272
 * duration_lstm.yaml: 268
@@ -36,7 +36,7 @@ If using "chinese_MDN.hed", use the following settings: (note that this certain 
 * timelag_ffn.yaml: 268
 * timelag_mdn.yaml: 268
 
-Training will not work without setting up these values correctly
+Training will not work without setting up these values correctly.
 
 As of the current version, the hed includes tone flags available for altering the tone due to ENUNU's flag system, with a simple flag of `i` that ranges from i1 to i8, how the flags are assigned to different tones are completely up to you.
 
@@ -48,6 +48,7 @@ The dictionary is based off of romanized Hangul for easier input when using [ENU
 NOTE: This is made with the Chinese language in mind and so it may differ a bit from standard romanized Hangul, please refer to the dictionary or view below for correct usage. Also, some vowels were removed due to pronunciation limitations, such as ㅐ, ㅒ, ㅙ, and ㅚ.
 
 ㅔ instead of `e` is `ee/E` (ee is the dictionary entry, E is the phoneme, both work), ㅠ is `yuu/YU`. The above are exceptions to prevent existing phonemes to override eachother and cause issues, the rest should follow regular romanized Hangul.
+NOTE: due to overriding entries, some parts of the dictionary might seem faulty.
 
 Here is demo of this dictionary being used on our beta vocal ACV-M1, the song used is Way Back Home by Shuan. 
 
