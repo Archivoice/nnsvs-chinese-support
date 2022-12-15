@@ -1,15 +1,15 @@
 #HED for NNSVS Chinese - Re-written by PixPrucer
-#in_dim: 407(duration/timelag), 411(acoustic)
+#in_dim: 410(duration/timelag), 414(acoustic)
 #in_rest_idx: 11
-#in_lfx0_idx: 362
+#in_lfx0_idx: 365
 QS "timbre"                 {*^i1_*, *^i2_*, *^i3_*, *^i4_*, *^i5_*, *^i6_*, *^i7_*, *^i8_*, *^i9_*, *^i10_*}
 # General
-QS "L-Pause"                {*^sil-*,*^pau*,*^cl-*}
-QS "C-Pause"                {*-sil+*,*-pau*,*-cl+*}
-QS "R-Pause"                {*+sil=*,*+pau*,*+cl=*}
-QS "L-Vowel"                {*^a-*,*^ia-*,*^ua-*,*^A-*,*^iA-*,*^uA-*,*^ng-*,*^N-*,*^e-*,*^ie-*,*^E-*,*^yu-*,*^i-*,*^I-*,*^ih-*,*^ii-*,*^U-*,*^uo-*,*^er-*,*^u-*,*^V-*,*^yE-*,*^uE-*,*^O-*,*^iO-*,*^yI-*,*^uu-*,*^iU-*}
-QS "C-Vowel"                {*-a+*,*-ia+*,*-ua+*,*-A+*,*-iA+*,*-uA+*,*-ng+*,*-N+*,*-e+*,*-ie+*,*-E+*,*-yu+*,*-i+*,*-I+*,*-ih+*,*-ii+*,*-U+*,*-uo+*,*-er+*,*-u+*,*-V+*,*-yE+*,*-uE+*,*-O+*,*-iO+*,*-yI+*,*-uu+*,*-iU+*}
-QS "R-Vowel"                {*+a=*,*+ia=*,*+ua=*,*+A=*,*+iA=*,*+uA=*,*+ng=*,*+N=*,*+e=*,*+ie=*,*+E=*,*+yu=*,*+i=*,*+I=*,*+ih=*,*+ii=*,*+U=*,*+uo=*,*+er=*,*+u=*,*+V=*,*+yE=*,*+uE=*,*+O=*,*+iO=*,*+yI=*,*+uu=*,*+iU=*}
+QS "C-Silence"                {*-sil+*,*-pau*,*-cl+*}
+QS "L-Silence"                {*^sil-*,*^pau*,*^cl-*}
+QS "R-Silence"                {*+sil=*,*+pau*,*+cl=*}
+QS "L-Vowel"                {*^a-*,*^ia-*,*^ua-*,*^A-*,*^iA-*,*^uA-*,*^ng-*,*^N-*,*^e-*,*^ie-*,*^E-*,*^yu-*,*^i-*,*^I-*,*^ih-*,*^ii-*,*^U-*,*^uo-*,*^er-*,*^u-*,*^V-*,*^yE-*,*^uE-*,*^O-*,*^iO-*,*^yI-*,*^uu-*,*^iU-*,*^eo-*}
+QS "C-Vowel"                {*-a+*,*-ia+*,*-ua+*,*-A+*,*-iA+*,*-uA+*,*-ng+*,*-N+*,*-e+*,*-ie+*,*-E+*,*-yu+*,*-i+*,*-I+*,*-ih+*,*-ii+*,*-U+*,*-uo+*,*-er+*,*-u+*,*-V+*,*-yE+*,*-uE+*,*-O+*,*-iO+*,*-yI+*,*-uu+*,*-iU+*,*-eo+*}
+QS "R-Vowel"                {*+a=*,*+ia=*,*+ua=*,*+A=*,*+iA=*,*+uA=*,*+ng=*,*+N=*,*+e=*,*+ie=*,*+E=*,*+yu=*,*+i=*,*+I=*,*+ih=*,*+ii=*,*+U=*,*+uo=*,*+er=*,*+u=*,*+V=*,*+yE=*,*+uE=*,*+O=*,*+iO=*,*+yI=*,*+uu=*,*+iU=*,*+eo=*}
 QS "L-Consonant"            {*^b-*,*^c-*,*^ch-*,*^d-*,*^f-*,*^g-*,*^h-*,*^j-*,*^k-*,*^l-*,*^m-*,*^n-*,*^p-*,*^q-*,*^r-*,*^rr-*,*^s-*,*^sh-*,*^t-*,*^w-*,*^x-*,*^y-*,*^z-*,*^zh-*}
 QS "C-Consonant"            {*-b+*,*-c+*,*-ch+*,*-d+*,*-f+*,*-g+*,*-h+*,*-j+*,*-k+*,*-l+*,*-m+*,*-n+*,*-p+*,*-q+*,*-r+*,*-rr+*,*-s+*,*-sh+*,*-t+*,*-w+*,*-x+*,*-y+*,*-z+*,*-zh+*}
 QS "R-Consonant"            {*+b=*,*+c=*,*+ch=*,*+d=*,*+f=*,*+g=*,*+h=*,*+j=*,*+k=*,*+l=*,*+m=*,*+n=*,*+p=*,*+q=*,*+r=*,*+rr=*,*+s=*,*+sh=*,*+t=*,*+w=*,*+x=*,*+y=*,*+z=*,*+zh=*}
@@ -26,9 +26,9 @@ QS "R-VUV_Unvoiced"         {*+c=*,*+ch=*,*+f=*,*+k=*,*+p=*,*+q=*,*+s=*,*+sh=*,*
 QS  "L-Front"               {*^ie-*,*^i-*,*^yI-*,*^yu-*,*^uu-*,*^iU-*}
 QS  "C-Front"               {*-ie+*,*-i+*,*-yI+*,*-yu+*,*-uu+*,*-iU+*}
 QS  "R-Front"               {*+ie=*,*+i=*,*+yI=*,*+yu=*,*+uu=*,*+iU=*}
-QS  "L-Central"             {*^a-*,*^ia-*,*^ua-*,*^e-*,*^E-*,*^yE-*,*^uE-*,*^er-*,*^V-*,*^I-*,*^ih-*}
-QS  "C-Central"             {*-a+*,*-ia+*,*-ua+*,*-e+*,*-E+*,*-yE+*,*-uE+*,*-er+*,*-V+*,*-I+*,*-ih+*}
-QS  "R-Central"             {*+a=*,*+ia=*,*+ua=*,*+e=*,*+E=*,*+yE=*,*+uE=*,*+er=*,*+V=*,*+I=*,*+ih=*}
+QS  "L-Central"             {*^a-*,*^ia-*,*^ua-*,*^e-*,*^E-*,*^yE-*,*^uE-*,*^er-*,*^V-*,*^I-*,*^ih-*,*^eo-*}
+QS  "C-Central"             {*-a+*,*-ia+*,*-ua+*,*-e+*,*-E+*,*-yE+*,*-uE+*,*-er+*,*-V+*,*-I+*,*-ih+*,*-eo+*}
+QS  "R-Central"             {*+a=*,*+ia=*,*+ua=*,*+e=*,*+E=*,*+yE=*,*+uE=*,*+er=*,*+V=*,*+I=*,*+ih=*,*+eo=*}
 QS  "L-Back"                {*^A-*,*^iA-*,*^uA-*,*^uo-*,*^u-*,*^O-*,*^iO-*}
 QS  "C-Back"                {*-A+*,*-iA+*,*-uA+*,*-uo+*,*-u+*,*-O+*,*-iO+*}
 QS  "R-Back"                {*+A=*,*+iA=*,*+uA=*,*+uo=*,*+u=*,*+O=*,*+iO=*}
@@ -36,9 +36,9 @@ QS  "R-Back"                {*+A=*,*+iA=*,*+uA=*,*+uo=*,*+u=*,*+O=*,*+iO=*}
 QS  "L-Close"               {*^yu-*,*^i-*,*^I-*,*^ih-*,*^u-*,*^V-*,*^yI-*,*^uu-*,*^iU-*}
 QS  "C-Close"               {*-yu+*,*-i+*,*-I+*,*-ih+*,*-u+*,*-V+*,*-yI+*,*-uu+*,*-iU+*}
 QS  "R-Close"               {*+yu=*,*+i=*,*+I=*,*+ih=*,*+u=*,*+V=*,*+yI=*,*+uu=*,*+iU=*}
-QS  "L-Mid"                 {*^e-*,*^ie-*,*^E-*,*^uo-*,*^er-*,*^yE-*,*^uE-*,*^O-*,*^iO-*}
-QS  "C-Mid"                 {*-e+*,*-ie+*,*-E+*,*-uo+*,*-er+*,*-yE+*,*-uE+*,*-O+*,*-iO+*}
-QS  "R-Mid"                 {*+e=*,*+ie=*,*+E=*,*+uo=*,*+er=*,*+yE=*,*+uE=*,*+O=*,*+iO=*}
+QS  "L-Mid"                 {*^e-*,*^ie-*,*^E-*,*^uo-*,*^er-*,*^yE-*,*^uE-*,*^O-*,*^iO-*,*^eo-*}
+QS  "C-Mid"                 {*-e+*,*-ie+*,*-E+*,*-uo+*,*-er+*,*-yE+*,*-uE+*,*-O+*,*-iO+*,*-eo+*}
+QS  "R-Mid"                 {*+e=*,*+ie=*,*+E=*,*+uo=*,*+er=*,*+yE=*,*+uE=*,*+O=*,*+iO=*,*+eo=*}
 QS  "L-Open"                {*^a-*,*^ia-*,*^ua-*,*^A-*,*^iA-*,*^uA-*}
 QS  "C-Open"                {*-a+*,*-ia+*,*-ua+*,*-A+*,*-iA+*,*-uA+*}
 QS  "R-Open"                {*+a=*,*+ia=*,*+ua=*,*+A=*,*+iA=*,*+uA=*}
@@ -52,9 +52,9 @@ QS  "R-Y_Beginning"         {*+yE=*,*+yI=*}
 QS  "L-U_Beginning"         {*^ua-*,*^uA-*,*^uo-*,*^uE-*,*^V-*}
 QS  "C-U_Beginning"         {*-ua+*,*-uA+*,*-uo+*,*-uE+*,*-V+*}
 QS  "R-U_Beginning"         {*+ua=*,*+uA=*,*+uo=*,*+uE=*,*+V=*}
-QS  "L-Flat"                {*^a-*,*^A-*,*^e-*,*^E-*,*^yu-*,*^i-*,*^I-*,*^ih-*,*^u-*,*^O-*,*^uu-*,*^er-*}
-QS  "C-Flat"                {*-a+*,*-A+*,*-e+*,*-E+*,*-yu+*,*-i+*,*-I+*,*-ih+*,*-u+*,*-O+*,*-uu+*,*-er+*}
-QS  "R-Flat"                {*+a=*,*+A=*,*+e=*,*+E=*,*+yu=*,*+i=*,*+I=*,*+ih=*,*+u=*,*+O=*,*+uu=*,*+er=*}
+QS  "L-Flat"                {*^a-*,*^A-*,*^e-*,*^E-*,*^yu-*,*^i-*,*^I-*,*^ih-*,*^u-*,*^O-*,*^uu-*,*^er-*,*^eo-*}
+QS  "C-Flat"                {*-a+*,*-A+*,*-e+*,*-E+*,*-yu+*,*-i+*,*-I+*,*-ih+*,*-u+*,*-O+*,*-uu+*,*-er+*,*-eo+*}
+QS  "R-Flat"                {*+a=*,*+A=*,*+e=*,*+E=*,*+yu=*,*+i=*,*+I=*,*+ih=*,*+u=*,*+O=*,*+uu=*,*+er=*,*+eo=*}
 QS  "L-Coda"                {*^ng-*,*^N-*,*^ii-*,*^U-*}
 QS  "C-Coda"                {*-ng+*,*-N+*,*-ii+*,*-U+*}
 QS  "R-Coda"                {*+ng=*,*+N=*,*+ii=*,*+U=*}
@@ -62,9 +62,9 @@ QS  "R-Coda"                {*+ng=*,*+N=*,*+ii=*,*+U=*}
 QS "L-N_Coda"               {*^ng-*,*^N-*}
 QS "C-N_Coda"               {*-ng+*,*-N+*}
 QS "R-N_Coda"               {*+ng=*,*+N=*}
-QS "L-E_Vowel"              {*^e-*,*^ie-*,*^E-*,*^er-*,*^uE-*,*^V-*}
-QS "C-E_Vowel"              {*-e+*,*-ie+*,*-E+*,*-er+*,*-uE+*,*-V+*}
-QS "R-E_Vowel"              {*+e=*,*+ie=*,*+E=*,*+er=*,*+uE=*,*+V=*}
+QS "L-E_Vowel"              {*^e-*,*^ie-*,*^E-*,*^er-*,*^uE-*,*^V-*,*^eo-*}
+QS "C-E_Vowel"              {*-e+*,*-ie+*,*-E+*,*-er+*,*-uE+*,*-V+*,*-eo+*}
+QS "R-E_Vowel"              {*+e=*,*+ie=*,*+E=*,*+er=*,*+uE=*,*+V=*,*+eo=*}
 QS "L-I_Vowel"              {*^i-*,*^I-*,*^ih-*,*^ii-*}
 QS "C-I_Vowel"              {*-i+*,*-I+*,*-ih+*,*-ii+*}
 QS "R-I_Vowel"              {*+i=*,*+I=*,*+ih=*,*+ii=*}
@@ -222,6 +222,7 @@ QS "L-iO"                   {*^iO-*}
 QS "L-yI"                   {*^yI-*}
 QS "L-iU"                   {*^iU-*}
 QS "L-uu"                   {*^uu-*}
+QS "L-eo"                    {*^eo-*}
 QS "L-b"                    {*^b-*}
 QS "L-c"                    {*^c-*}
 QS "L-ch"                   {*^ch-*}
@@ -282,6 +283,7 @@ QS "C-iO"                   {*-iO+*}
 QS "C-yI"                   {*-yI+*}
 QS "C-iU"                   {*-iU+*}
 QS "C-uu"                   {*-uu+*}
+QS "C-eo"                    {*-eo+*}
 QS "C-b"                    {*-b+*}
 QS "C-c"                    {*-c+*}
 QS "C-ch"                   {*-ch+*}
@@ -342,6 +344,7 @@ QS "R-iO"                   {*+iO=*}
 QS "R-yI"                   {*+yI=*}
 QS "R-iU"                   {*+iU=*}
 QS "R-uu"                   {*+uu=*}
+QS "R-eo"                    {*+eo=*}
 QS "R-b"                    {*+b=*}
 QS "R-c"                    {*+c=*}
 QS "R-ch"                   {*+ch=*}
